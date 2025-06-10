@@ -1,0 +1,1258 @@
+variable,dataset,level,resolution,frequency,year,name_in_file,long_name,units,path
+2t,era5,sfc,1deg,daily,1950,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1950.nc
+2t,era5,sfc,1deg,daily,1951,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1951.nc
+2t,era5,sfc,1deg,daily,1952,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1952.nc
+2t,era5,sfc,1deg,daily,1953,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1953.nc
+2t,era5,sfc,1deg,daily,1954,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1954.nc
+2t,era5,sfc,1deg,daily,1955,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1955.nc
+2t,era5,sfc,1deg,daily,1956,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1956.nc
+2t,era5,sfc,1deg,daily,1957,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1957.nc
+2t,era5,sfc,1deg,daily,1958,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1958.nc
+2t,era5,sfc,1deg,daily,1959,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1959.nc
+2t,era5,sfc,1deg,daily,1960,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1960.nc
+2t,era5,sfc,1deg,daily,1961,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1961.nc
+2t,era5,sfc,1deg,daily,1962,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1962.nc
+2t,era5,sfc,1deg,daily,1963,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1963.nc
+2t,era5,sfc,1deg,daily,1964,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1964.nc
+2t,era5,sfc,1deg,daily,1965,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1965.nc
+2t,era5,sfc,1deg,daily,1966,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1966.nc
+2t,era5,sfc,1deg,daily,1967,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1967.nc
+2t,era5,sfc,1deg,daily,1968,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1968.nc
+2t,era5,sfc,1deg,daily,1969,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1969.nc
+2t,era5,sfc,1deg,daily,1970,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1970.nc
+2t,era5,sfc,1deg,daily,1971,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1971.nc
+2t,era5,sfc,1deg,daily,1972,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1972.nc
+2t,era5,sfc,1deg,daily,1973,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1973.nc
+2t,era5,sfc,1deg,daily,1974,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1974.nc
+2t,era5,sfc,1deg,daily,1975,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1975.nc
+2t,era5,sfc,1deg,daily,1976,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1976.nc
+2t,era5,sfc,1deg,daily,1977,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1977.nc
+2t,era5,sfc,1deg,daily,1978,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1978.nc
+2t,era5,sfc,1deg,daily,1979,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1979.nc
+2t,era5,sfc,1deg,daily,1980,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1980.nc
+2t,era5,sfc,1deg,daily,1981,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1981.nc
+2t,era5,sfc,1deg,daily,1982,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1982.nc
+2t,era5,sfc,1deg,daily,1983,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1983.nc
+2t,era5,sfc,1deg,daily,1984,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1984.nc
+2t,era5,sfc,1deg,daily,1985,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1985.nc
+2t,era5,sfc,1deg,daily,1986,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1986.nc
+2t,era5,sfc,1deg,daily,1987,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1987.nc
+2t,era5,sfc,1deg,daily,1988,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1988.nc
+2t,era5,sfc,1deg,daily,1989,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1989.nc
+2t,era5,sfc,1deg,daily,1990,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1990.nc
+2t,era5,sfc,1deg,daily,1991,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1991.nc
+2t,era5,sfc,1deg,daily,1992,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1992.nc
+2t,era5,sfc,1deg,daily,1993,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1993.nc
+2t,era5,sfc,1deg,daily,1994,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1994.nc
+2t,era5,sfc,1deg,daily,1995,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1995.nc
+2t,era5,sfc,1deg,daily,1996,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1996.nc
+2t,era5,sfc,1deg,daily,1997,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1997.nc
+2t,era5,sfc,1deg,daily,1998,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1998.nc
+2t,era5,sfc,1deg,daily,1999,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_1999.nc
+2t,era5,sfc,1deg,daily,2000,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2000.nc
+2t,era5,sfc,1deg,daily,2001,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2001.nc
+2t,era5,sfc,1deg,daily,2002,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2002.nc
+2t,era5,sfc,1deg,daily,2003,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2003.nc
+2t,era5,sfc,1deg,daily,2004,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2004.nc
+2t,era5,sfc,1deg,daily,2005,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2005.nc
+2t,era5,sfc,1deg,daily,2006,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2006.nc
+2t,era5,sfc,1deg,daily,2007,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2007.nc
+2t,era5,sfc,1deg,daily,2008,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2008.nc
+2t,era5,sfc,1deg,daily,2009,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2009.nc
+2t,era5,sfc,1deg,daily,2010,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2010.nc
+2t,era5,sfc,1deg,daily,2011,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2011.nc
+2t,era5,sfc,1deg,daily,2012,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2012.nc
+2t,era5,sfc,1deg,daily,2013,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2013.nc
+2t,era5,sfc,1deg,daily,2014,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2014.nc
+2t,era5,sfc,1deg,daily,2015,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2015.nc
+2t,era5,sfc,1deg,daily,2016,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2016.nc
+2t,era5,sfc,1deg,daily,2017,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2017.nc
+2t,era5,sfc,1deg,daily,2018,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2018.nc
+2t,era5,sfc,1deg,daily,2019,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2019.nc
+2t,era5,sfc,1deg,daily,2020,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2020.nc
+2t,era5,sfc,1deg,daily,2021,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2021.nc
+2t,era5,sfc,1deg,daily,2022,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2022.nc
+2t,era5,sfc,1deg,daily,2023,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2023.nc
+2t,era5,sfc,1deg,daily,2024,t2m,2 metre temperature,K,/g/data/su28/ERA5/daily/2t/2t_era5_oper_sfc_merge_1deg_daily_2024.nc
+mer,era5,sfc,1deg,daily,1950,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1950.nc
+mer,era5,sfc,1deg,daily,1951,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1951.nc
+mer,era5,sfc,1deg,daily,1952,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1952.nc
+mer,era5,sfc,1deg,daily,1953,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1953.nc
+mer,era5,sfc,1deg,daily,1954,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1954.nc
+mer,era5,sfc,1deg,daily,1955,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1955.nc
+mer,era5,sfc,1deg,daily,1956,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1956.nc
+mer,era5,sfc,1deg,daily,1957,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1957.nc
+mer,era5,sfc,1deg,daily,1958,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1958.nc
+mer,era5,sfc,1deg,daily,1959,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1959.nc
+mer,era5,sfc,1deg,daily,1960,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1960.nc
+mer,era5,sfc,1deg,daily,1961,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1961.nc
+mer,era5,sfc,1deg,daily,1962,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1962.nc
+mer,era5,sfc,1deg,daily,1963,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1963.nc
+mer,era5,sfc,1deg,daily,1964,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1964.nc
+mer,era5,sfc,1deg,daily,1965,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1965.nc
+mer,era5,sfc,1deg,daily,1966,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1966.nc
+mer,era5,sfc,1deg,daily,1967,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1967.nc
+mer,era5,sfc,1deg,daily,1968,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1968.nc
+mer,era5,sfc,1deg,daily,1969,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1969.nc
+mer,era5,sfc,1deg,daily,1970,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1970.nc
+mer,era5,sfc,1deg,daily,1971,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1971.nc
+mer,era5,sfc,1deg,daily,1972,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1972.nc
+mer,era5,sfc,1deg,daily,1973,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1973.nc
+mer,era5,sfc,1deg,daily,1974,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1974.nc
+mer,era5,sfc,1deg,daily,1975,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1975.nc
+mer,era5,sfc,1deg,daily,1976,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1976.nc
+mer,era5,sfc,1deg,daily,1977,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1977.nc
+mer,era5,sfc,1deg,daily,1978,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1978.nc
+mer,era5,sfc,1deg,daily,1979,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1979.nc
+mer,era5,sfc,1deg,daily,1980,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1980.nc
+mer,era5,sfc,1deg,daily,1981,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1981.nc
+mer,era5,sfc,1deg,daily,1982,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1982.nc
+mer,era5,sfc,1deg,daily,1983,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1983.nc
+mer,era5,sfc,1deg,daily,1984,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1984.nc
+mer,era5,sfc,1deg,daily,1985,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1985.nc
+mer,era5,sfc,1deg,daily,1986,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1986.nc
+mer,era5,sfc,1deg,daily,1987,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1987.nc
+mer,era5,sfc,1deg,daily,1988,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1988.nc
+mer,era5,sfc,1deg,daily,1989,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1989.nc
+mer,era5,sfc,1deg,daily,1990,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1990.nc
+mer,era5,sfc,1deg,daily,1991,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1991.nc
+mer,era5,sfc,1deg,daily,1992,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1992.nc
+mer,era5,sfc,1deg,daily,1993,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1993.nc
+mer,era5,sfc,1deg,daily,1994,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1994.nc
+mer,era5,sfc,1deg,daily,1995,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1995.nc
+mer,era5,sfc,1deg,daily,1996,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1996.nc
+mer,era5,sfc,1deg,daily,1997,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1997.nc
+mer,era5,sfc,1deg,daily,1998,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1998.nc
+mer,era5,sfc,1deg,daily,1999,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_1999.nc
+mer,era5,sfc,1deg,daily,2000,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2000.nc
+mer,era5,sfc,1deg,daily,2001,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2001.nc
+mer,era5,sfc,1deg,daily,2002,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2002.nc
+mer,era5,sfc,1deg,daily,2003,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2003.nc
+mer,era5,sfc,1deg,daily,2004,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2004.nc
+mer,era5,sfc,1deg,daily,2005,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2005.nc
+mer,era5,sfc,1deg,daily,2006,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2006.nc
+mer,era5,sfc,1deg,daily,2007,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2007.nc
+mer,era5,sfc,1deg,daily,2008,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2008.nc
+mer,era5,sfc,1deg,daily,2009,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2009.nc
+mer,era5,sfc,1deg,daily,2010,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2010.nc
+mer,era5,sfc,1deg,daily,2011,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2011.nc
+mer,era5,sfc,1deg,daily,2012,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2012.nc
+mer,era5,sfc,1deg,daily,2013,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2013.nc
+mer,era5,sfc,1deg,daily,2014,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2014.nc
+mer,era5,sfc,1deg,daily,2015,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2015.nc
+mer,era5,sfc,1deg,daily,2016,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2016.nc
+mer,era5,sfc,1deg,daily,2017,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2017.nc
+mer,era5,sfc,1deg,daily,2018,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2018.nc
+mer,era5,sfc,1deg,daily,2019,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2019.nc
+mer,era5,sfc,1deg,daily,2020,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2020.nc
+mer,era5,sfc,1deg,daily,2021,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2021.nc
+mer,era5,sfc,1deg,daily,2022,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2022.nc
+mer,era5,sfc,1deg,daily,2023,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2023.nc
+mer,era5,sfc,1deg,daily,2024,mer,Mean evaporation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mer/mer_era5_oper_sfc_merge_1deg_daily_2024.nc
+msl,era5,sfc,1deg,daily,1950,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1950.nc
+msl,era5,sfc,1deg,daily,1951,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1951.nc
+msl,era5,sfc,1deg,daily,1952,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1952.nc
+msl,era5,sfc,1deg,daily,1953,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1953.nc
+msl,era5,sfc,1deg,daily,1954,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1954.nc
+msl,era5,sfc,1deg,daily,1955,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1955.nc
+msl,era5,sfc,1deg,daily,1956,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1956.nc
+msl,era5,sfc,1deg,daily,1957,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1957.nc
+msl,era5,sfc,1deg,daily,1958,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1958.nc
+msl,era5,sfc,1deg,daily,1959,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1959.nc
+msl,era5,sfc,1deg,daily,1960,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1960.nc
+msl,era5,sfc,1deg,daily,1961,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1961.nc
+msl,era5,sfc,1deg,daily,1962,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1962.nc
+msl,era5,sfc,1deg,daily,1963,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1963.nc
+msl,era5,sfc,1deg,daily,1964,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1964.nc
+msl,era5,sfc,1deg,daily,1965,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1965.nc
+msl,era5,sfc,1deg,daily,1966,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1966.nc
+msl,era5,sfc,1deg,daily,1967,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1967.nc
+msl,era5,sfc,1deg,daily,1968,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1968.nc
+msl,era5,sfc,1deg,daily,1969,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1969.nc
+msl,era5,sfc,1deg,daily,1970,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1970.nc
+msl,era5,sfc,1deg,daily,1971,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1971.nc
+msl,era5,sfc,1deg,daily,1972,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1972.nc
+msl,era5,sfc,1deg,daily,1973,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1973.nc
+msl,era5,sfc,1deg,daily,1974,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1974.nc
+msl,era5,sfc,1deg,daily,1975,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1975.nc
+msl,era5,sfc,1deg,daily,1976,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1976.nc
+msl,era5,sfc,1deg,daily,1977,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1977.nc
+msl,era5,sfc,1deg,daily,1978,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1978.nc
+msl,era5,sfc,1deg,daily,1979,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1979.nc
+msl,era5,sfc,1deg,daily,1980,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1980.nc
+msl,era5,sfc,1deg,daily,1981,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1981.nc
+msl,era5,sfc,1deg,daily,1982,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1982.nc
+msl,era5,sfc,1deg,daily,1983,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1983.nc
+msl,era5,sfc,1deg,daily,1984,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1984.nc
+msl,era5,sfc,1deg,daily,1985,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1985.nc
+msl,era5,sfc,1deg,daily,1986,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1986.nc
+msl,era5,sfc,1deg,daily,1987,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1987.nc
+msl,era5,sfc,1deg,daily,1988,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1988.nc
+msl,era5,sfc,1deg,daily,1989,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1989.nc
+msl,era5,sfc,1deg,daily,1990,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1990.nc
+msl,era5,sfc,1deg,daily,1991,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1991.nc
+msl,era5,sfc,1deg,daily,1992,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1992.nc
+msl,era5,sfc,1deg,daily,1993,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1993.nc
+msl,era5,sfc,1deg,daily,1994,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1994.nc
+msl,era5,sfc,1deg,daily,1995,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1995.nc
+msl,era5,sfc,1deg,daily,1996,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1996.nc
+msl,era5,sfc,1deg,daily,1997,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1997.nc
+msl,era5,sfc,1deg,daily,1998,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1998.nc
+msl,era5,sfc,1deg,daily,1999,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_1999.nc
+msl,era5,sfc,1deg,daily,2000,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2000.nc
+msl,era5,sfc,1deg,daily,2001,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2001.nc
+msl,era5,sfc,1deg,daily,2002,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2002.nc
+msl,era5,sfc,1deg,daily,2003,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2003.nc
+msl,era5,sfc,1deg,daily,2004,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2004.nc
+msl,era5,sfc,1deg,daily,2005,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2005.nc
+msl,era5,sfc,1deg,daily,2006,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2006.nc
+msl,era5,sfc,1deg,daily,2007,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2007.nc
+msl,era5,sfc,1deg,daily,2008,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2008.nc
+msl,era5,sfc,1deg,daily,2009,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2009.nc
+msl,era5,sfc,1deg,daily,2010,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2010.nc
+msl,era5,sfc,1deg,daily,2011,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2011.nc
+msl,era5,sfc,1deg,daily,2012,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2012.nc
+msl,era5,sfc,1deg,daily,2013,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2013.nc
+msl,era5,sfc,1deg,daily,2014,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2014.nc
+msl,era5,sfc,1deg,daily,2015,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2015.nc
+msl,era5,sfc,1deg,daily,2016,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2016.nc
+msl,era5,sfc,1deg,daily,2017,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2017.nc
+msl,era5,sfc,1deg,daily,2018,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2018.nc
+msl,era5,sfc,1deg,daily,2019,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2019.nc
+msl,era5,sfc,1deg,daily,2020,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2020.nc
+msl,era5,sfc,1deg,daily,2021,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2021.nc
+msl,era5,sfc,1deg,daily,2022,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2022.nc
+msl,era5,sfc,1deg,daily,2023,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2023.nc
+msl,era5,sfc,1deg,daily,2024,msl,Mean sea level pressure,Pa,/g/data/su28/ERA5/daily/msl/msl_era5_oper_sfc_merge_1deg_daily_2024.nc
+mslhf,era5,sfc,1deg,daily,1950,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1950.nc
+mslhf,era5,sfc,1deg,daily,1951,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1951.nc
+mslhf,era5,sfc,1deg,daily,1952,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1952.nc
+mslhf,era5,sfc,1deg,daily,1953,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1953.nc
+mslhf,era5,sfc,1deg,daily,1954,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1954.nc
+mslhf,era5,sfc,1deg,daily,1955,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1955.nc
+mslhf,era5,sfc,1deg,daily,1956,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1956.nc
+mslhf,era5,sfc,1deg,daily,1957,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1957.nc
+mslhf,era5,sfc,1deg,daily,1958,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1958.nc
+mslhf,era5,sfc,1deg,daily,1959,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1959.nc
+mslhf,era5,sfc,1deg,daily,1960,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1960.nc
+mslhf,era5,sfc,1deg,daily,1961,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1961.nc
+mslhf,era5,sfc,1deg,daily,1962,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1962.nc
+mslhf,era5,sfc,1deg,daily,1963,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1963.nc
+mslhf,era5,sfc,1deg,daily,1964,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1964.nc
+mslhf,era5,sfc,1deg,daily,1965,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1965.nc
+mslhf,era5,sfc,1deg,daily,1966,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1966.nc
+mslhf,era5,sfc,1deg,daily,1967,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1967.nc
+mslhf,era5,sfc,1deg,daily,1968,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1968.nc
+mslhf,era5,sfc,1deg,daily,1969,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1969.nc
+mslhf,era5,sfc,1deg,daily,1970,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1970.nc
+mslhf,era5,sfc,1deg,daily,1971,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1971.nc
+mslhf,era5,sfc,1deg,daily,1972,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1972.nc
+mslhf,era5,sfc,1deg,daily,1973,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1973.nc
+mslhf,era5,sfc,1deg,daily,1974,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1974.nc
+mslhf,era5,sfc,1deg,daily,1975,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1975.nc
+mslhf,era5,sfc,1deg,daily,1976,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1976.nc
+mslhf,era5,sfc,1deg,daily,1977,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1977.nc
+mslhf,era5,sfc,1deg,daily,1978,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1978.nc
+mslhf,era5,sfc,1deg,daily,1979,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1979.nc
+mslhf,era5,sfc,1deg,daily,1980,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1980.nc
+mslhf,era5,sfc,1deg,daily,1981,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1981.nc
+mslhf,era5,sfc,1deg,daily,1982,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1982.nc
+mslhf,era5,sfc,1deg,daily,1983,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1983.nc
+mslhf,era5,sfc,1deg,daily,1984,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1984.nc
+mslhf,era5,sfc,1deg,daily,1985,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1985.nc
+mslhf,era5,sfc,1deg,daily,1986,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1986.nc
+mslhf,era5,sfc,1deg,daily,1987,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1987.nc
+mslhf,era5,sfc,1deg,daily,1988,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1988.nc
+mslhf,era5,sfc,1deg,daily,1989,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1989.nc
+mslhf,era5,sfc,1deg,daily,1990,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1990.nc
+mslhf,era5,sfc,1deg,daily,1991,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1991.nc
+mslhf,era5,sfc,1deg,daily,1992,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1992.nc
+mslhf,era5,sfc,1deg,daily,1993,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1993.nc
+mslhf,era5,sfc,1deg,daily,1994,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1994.nc
+mslhf,era5,sfc,1deg,daily,1995,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1995.nc
+mslhf,era5,sfc,1deg,daily,1996,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1996.nc
+mslhf,era5,sfc,1deg,daily,1997,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1997.nc
+mslhf,era5,sfc,1deg,daily,1998,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1998.nc
+mslhf,era5,sfc,1deg,daily,1999,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_1999.nc
+mslhf,era5,sfc,1deg,daily,2000,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2000.nc
+mslhf,era5,sfc,1deg,daily,2001,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2001.nc
+mslhf,era5,sfc,1deg,daily,2002,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2002.nc
+mslhf,era5,sfc,1deg,daily,2003,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2003.nc
+mslhf,era5,sfc,1deg,daily,2004,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2004.nc
+mslhf,era5,sfc,1deg,daily,2005,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2005.nc
+mslhf,era5,sfc,1deg,daily,2006,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2006.nc
+mslhf,era5,sfc,1deg,daily,2007,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2007.nc
+mslhf,era5,sfc,1deg,daily,2008,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2008.nc
+mslhf,era5,sfc,1deg,daily,2009,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2009.nc
+mslhf,era5,sfc,1deg,daily,2010,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2010.nc
+mslhf,era5,sfc,1deg,daily,2011,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2011.nc
+mslhf,era5,sfc,1deg,daily,2012,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2012.nc
+mslhf,era5,sfc,1deg,daily,2013,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2013.nc
+mslhf,era5,sfc,1deg,daily,2014,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2014.nc
+mslhf,era5,sfc,1deg,daily,2015,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2015.nc
+mslhf,era5,sfc,1deg,daily,2016,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2016.nc
+mslhf,era5,sfc,1deg,daily,2017,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2017.nc
+mslhf,era5,sfc,1deg,daily,2018,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2018.nc
+mslhf,era5,sfc,1deg,daily,2019,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2019.nc
+mslhf,era5,sfc,1deg,daily,2020,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2020.nc
+mslhf,era5,sfc,1deg,daily,2021,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2021.nc
+mslhf,era5,sfc,1deg,daily,2022,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2022.nc
+mslhf,era5,sfc,1deg,daily,2023,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2023.nc
+mslhf,era5,sfc,1deg,daily,2024,mslhf,Mean surface latent heat flux,W m**-2,/g/data/su28/ERA5/daily/mslhf/mslhf_era5_oper_sfc_merge_1deg_daily_2024.nc
+msshf,era5,sfc,1deg,daily,1950,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1950.nc
+msshf,era5,sfc,1deg,daily,1951,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1951.nc
+msshf,era5,sfc,1deg,daily,1952,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1952.nc
+msshf,era5,sfc,1deg,daily,1953,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1953.nc
+msshf,era5,sfc,1deg,daily,1954,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1954.nc
+msshf,era5,sfc,1deg,daily,1955,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1955.nc
+msshf,era5,sfc,1deg,daily,1956,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1956.nc
+msshf,era5,sfc,1deg,daily,1957,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1957.nc
+msshf,era5,sfc,1deg,daily,1958,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1958.nc
+msshf,era5,sfc,1deg,daily,1959,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1959.nc
+msshf,era5,sfc,1deg,daily,1960,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1960.nc
+msshf,era5,sfc,1deg,daily,1961,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1961.nc
+msshf,era5,sfc,1deg,daily,1962,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1962.nc
+msshf,era5,sfc,1deg,daily,1963,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1963.nc
+msshf,era5,sfc,1deg,daily,1964,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1964.nc
+msshf,era5,sfc,1deg,daily,1965,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1965.nc
+msshf,era5,sfc,1deg,daily,1966,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1966.nc
+msshf,era5,sfc,1deg,daily,1967,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1967.nc
+msshf,era5,sfc,1deg,daily,1968,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1968.nc
+msshf,era5,sfc,1deg,daily,1969,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1969.nc
+msshf,era5,sfc,1deg,daily,1970,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1970.nc
+msshf,era5,sfc,1deg,daily,1971,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1971.nc
+msshf,era5,sfc,1deg,daily,1972,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1972.nc
+msshf,era5,sfc,1deg,daily,1973,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1973.nc
+msshf,era5,sfc,1deg,daily,1974,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1974.nc
+msshf,era5,sfc,1deg,daily,1975,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1975.nc
+msshf,era5,sfc,1deg,daily,1976,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1976.nc
+msshf,era5,sfc,1deg,daily,1977,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1977.nc
+msshf,era5,sfc,1deg,daily,1978,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1978.nc
+msshf,era5,sfc,1deg,daily,1979,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1979.nc
+msshf,era5,sfc,1deg,daily,1980,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1980.nc
+msshf,era5,sfc,1deg,daily,1981,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1981.nc
+msshf,era5,sfc,1deg,daily,1982,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1982.nc
+msshf,era5,sfc,1deg,daily,1983,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1983.nc
+msshf,era5,sfc,1deg,daily,1984,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1984.nc
+msshf,era5,sfc,1deg,daily,1985,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1985.nc
+msshf,era5,sfc,1deg,daily,1986,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1986.nc
+msshf,era5,sfc,1deg,daily,1987,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1987.nc
+msshf,era5,sfc,1deg,daily,1988,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1988.nc
+msshf,era5,sfc,1deg,daily,1989,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1989.nc
+msshf,era5,sfc,1deg,daily,1990,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1990.nc
+msshf,era5,sfc,1deg,daily,1991,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1991.nc
+msshf,era5,sfc,1deg,daily,1992,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1992.nc
+msshf,era5,sfc,1deg,daily,1993,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1993.nc
+msshf,era5,sfc,1deg,daily,1994,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1994.nc
+msshf,era5,sfc,1deg,daily,1995,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1995.nc
+msshf,era5,sfc,1deg,daily,1996,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1996.nc
+msshf,era5,sfc,1deg,daily,1997,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1997.nc
+msshf,era5,sfc,1deg,daily,1998,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1998.nc
+msshf,era5,sfc,1deg,daily,1999,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_1999.nc
+msshf,era5,sfc,1deg,daily,2000,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2000.nc
+msshf,era5,sfc,1deg,daily,2001,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2001.nc
+msshf,era5,sfc,1deg,daily,2002,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2002.nc
+msshf,era5,sfc,1deg,daily,2003,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2003.nc
+msshf,era5,sfc,1deg,daily,2004,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2004.nc
+msshf,era5,sfc,1deg,daily,2005,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2005.nc
+msshf,era5,sfc,1deg,daily,2006,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2006.nc
+msshf,era5,sfc,1deg,daily,2007,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2007.nc
+msshf,era5,sfc,1deg,daily,2008,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2008.nc
+msshf,era5,sfc,1deg,daily,2009,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2009.nc
+msshf,era5,sfc,1deg,daily,2010,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2010.nc
+msshf,era5,sfc,1deg,daily,2011,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2011.nc
+msshf,era5,sfc,1deg,daily,2012,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2012.nc
+msshf,era5,sfc,1deg,daily,2013,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2013.nc
+msshf,era5,sfc,1deg,daily,2014,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2014.nc
+msshf,era5,sfc,1deg,daily,2015,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2015.nc
+msshf,era5,sfc,1deg,daily,2016,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2016.nc
+msshf,era5,sfc,1deg,daily,2017,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2017.nc
+msshf,era5,sfc,1deg,daily,2018,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2018.nc
+msshf,era5,sfc,1deg,daily,2019,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2019.nc
+msshf,era5,sfc,1deg,daily,2020,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2020.nc
+msshf,era5,sfc,1deg,daily,2021,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2021.nc
+msshf,era5,sfc,1deg,daily,2022,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2022.nc
+msshf,era5,sfc,1deg,daily,2023,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2023.nc
+msshf,era5,sfc,1deg,daily,2024,msshf,Mean surface sensible heat flux,W m**-2,/g/data/su28/ERA5/daily/msshf/msshf_era5_oper_sfc_merge_1deg_daily_2024.nc
+mtpr,era5,sfc,1deg,daily,1950,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1950.nc
+mtpr,era5,sfc,1deg,daily,1951,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1951.nc
+mtpr,era5,sfc,1deg,daily,1952,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1952.nc
+mtpr,era5,sfc,1deg,daily,1953,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1953.nc
+mtpr,era5,sfc,1deg,daily,1954,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1954.nc
+mtpr,era5,sfc,1deg,daily,1955,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1955.nc
+mtpr,era5,sfc,1deg,daily,1956,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1956.nc
+mtpr,era5,sfc,1deg,daily,1957,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1957.nc
+mtpr,era5,sfc,1deg,daily,1958,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1958.nc
+mtpr,era5,sfc,1deg,daily,1959,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1959.nc
+mtpr,era5,sfc,1deg,daily,1960,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1960.nc
+mtpr,era5,sfc,1deg,daily,1961,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1961.nc
+mtpr,era5,sfc,1deg,daily,1962,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1962.nc
+mtpr,era5,sfc,1deg,daily,1963,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1963.nc
+mtpr,era5,sfc,1deg,daily,1964,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1964.nc
+mtpr,era5,sfc,1deg,daily,1965,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1965.nc
+mtpr,era5,sfc,1deg,daily,1966,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1966.nc
+mtpr,era5,sfc,1deg,daily,1967,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1967.nc
+mtpr,era5,sfc,1deg,daily,1968,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1968.nc
+mtpr,era5,sfc,1deg,daily,1969,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1969.nc
+mtpr,era5,sfc,1deg,daily,1970,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1970.nc
+mtpr,era5,sfc,1deg,daily,1971,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1971.nc
+mtpr,era5,sfc,1deg,daily,1972,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1972.nc
+mtpr,era5,sfc,1deg,daily,1973,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1973.nc
+mtpr,era5,sfc,1deg,daily,1974,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1974.nc
+mtpr,era5,sfc,1deg,daily,1975,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1975.nc
+mtpr,era5,sfc,1deg,daily,1976,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1976.nc
+mtpr,era5,sfc,1deg,daily,1977,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1977.nc
+mtpr,era5,sfc,1deg,daily,1978,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1978.nc
+mtpr,era5,sfc,1deg,daily,1979,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1979.nc
+mtpr,era5,sfc,1deg,daily,1980,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1980.nc
+mtpr,era5,sfc,1deg,daily,1981,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1981.nc
+mtpr,era5,sfc,1deg,daily,1982,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1982.nc
+mtpr,era5,sfc,1deg,daily,1983,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1983.nc
+mtpr,era5,sfc,1deg,daily,1984,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1984.nc
+mtpr,era5,sfc,1deg,daily,1985,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1985.nc
+mtpr,era5,sfc,1deg,daily,1986,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1986.nc
+mtpr,era5,sfc,1deg,daily,1987,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1987.nc
+mtpr,era5,sfc,1deg,daily,1988,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1988.nc
+mtpr,era5,sfc,1deg,daily,1989,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1989.nc
+mtpr,era5,sfc,1deg,daily,1990,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1990.nc
+mtpr,era5,sfc,1deg,daily,1991,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1991.nc
+mtpr,era5,sfc,1deg,daily,1992,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1992.nc
+mtpr,era5,sfc,1deg,daily,1993,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1993.nc
+mtpr,era5,sfc,1deg,daily,1994,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1994.nc
+mtpr,era5,sfc,1deg,daily,1995,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1995.nc
+mtpr,era5,sfc,1deg,daily,1996,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1996.nc
+mtpr,era5,sfc,1deg,daily,1997,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1997.nc
+mtpr,era5,sfc,1deg,daily,1998,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1998.nc
+mtpr,era5,sfc,1deg,daily,1999,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_1999.nc
+mtpr,era5,sfc,1deg,daily,2000,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2000.nc
+mtpr,era5,sfc,1deg,daily,2001,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2001.nc
+mtpr,era5,sfc,1deg,daily,2002,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2002.nc
+mtpr,era5,sfc,1deg,daily,2003,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2003.nc
+mtpr,era5,sfc,1deg,daily,2004,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2004.nc
+mtpr,era5,sfc,1deg,daily,2005,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2005.nc
+mtpr,era5,sfc,1deg,daily,2006,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2006.nc
+mtpr,era5,sfc,1deg,daily,2007,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2007.nc
+mtpr,era5,sfc,1deg,daily,2008,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2008.nc
+mtpr,era5,sfc,1deg,daily,2009,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2009.nc
+mtpr,era5,sfc,1deg,daily,2010,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2010.nc
+mtpr,era5,sfc,1deg,daily,2011,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2011.nc
+mtpr,era5,sfc,1deg,daily,2012,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2012.nc
+mtpr,era5,sfc,1deg,daily,2013,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2013.nc
+mtpr,era5,sfc,1deg,daily,2014,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2014.nc
+mtpr,era5,sfc,1deg,daily,2015,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2015.nc
+mtpr,era5,sfc,1deg,daily,2016,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2016.nc
+mtpr,era5,sfc,1deg,daily,2017,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2017.nc
+mtpr,era5,sfc,1deg,daily,2018,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2018.nc
+mtpr,era5,sfc,1deg,daily,2019,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2019.nc
+mtpr,era5,sfc,1deg,daily,2020,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2020.nc
+mtpr,era5,sfc,1deg,daily,2021,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2021.nc
+mtpr,era5,sfc,1deg,daily,2022,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2022.nc
+mtpr,era5,sfc,1deg,daily,2023,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2023.nc
+mtpr,era5,sfc,1deg,daily,2024,mtpr,Mean total precipitation rate,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mtpr/mtpr_era5_oper_sfc_merge_1deg_daily_2024.nc
+mvimd,era5,sfc,1deg,daily,1950,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1950.nc
+mvimd,era5,sfc,1deg,daily,1951,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1951.nc
+mvimd,era5,sfc,1deg,daily,1952,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1952.nc
+mvimd,era5,sfc,1deg,daily,1953,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1953.nc
+mvimd,era5,sfc,1deg,daily,1954,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1954.nc
+mvimd,era5,sfc,1deg,daily,1955,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1955.nc
+mvimd,era5,sfc,1deg,daily,1956,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1956.nc
+mvimd,era5,sfc,1deg,daily,1957,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1957.nc
+mvimd,era5,sfc,1deg,daily,1958,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1958.nc
+mvimd,era5,sfc,1deg,daily,1959,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1959.nc
+mvimd,era5,sfc,1deg,daily,1960,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1960.nc
+mvimd,era5,sfc,1deg,daily,1961,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1961.nc
+mvimd,era5,sfc,1deg,daily,1962,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1962.nc
+mvimd,era5,sfc,1deg,daily,1963,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1963.nc
+mvimd,era5,sfc,1deg,daily,1964,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1964.nc
+mvimd,era5,sfc,1deg,daily,1965,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1965.nc
+mvimd,era5,sfc,1deg,daily,1966,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1966.nc
+mvimd,era5,sfc,1deg,daily,1967,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1967.nc
+mvimd,era5,sfc,1deg,daily,1968,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1968.nc
+mvimd,era5,sfc,1deg,daily,1969,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1969.nc
+mvimd,era5,sfc,1deg,daily,1970,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1970.nc
+mvimd,era5,sfc,1deg,daily,1971,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1971.nc
+mvimd,era5,sfc,1deg,daily,1972,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1972.nc
+mvimd,era5,sfc,1deg,daily,1973,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1973.nc
+mvimd,era5,sfc,1deg,daily,1974,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1974.nc
+mvimd,era5,sfc,1deg,daily,1975,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1975.nc
+mvimd,era5,sfc,1deg,daily,1976,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1976.nc
+mvimd,era5,sfc,1deg,daily,1977,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1977.nc
+mvimd,era5,sfc,1deg,daily,1978,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1978.nc
+mvimd,era5,sfc,1deg,daily,1979,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1979.nc
+mvimd,era5,sfc,1deg,daily,1980,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1980.nc
+mvimd,era5,sfc,1deg,daily,1981,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1981.nc
+mvimd,era5,sfc,1deg,daily,1982,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1982.nc
+mvimd,era5,sfc,1deg,daily,1983,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1983.nc
+mvimd,era5,sfc,1deg,daily,1984,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1984.nc
+mvimd,era5,sfc,1deg,daily,1985,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1985.nc
+mvimd,era5,sfc,1deg,daily,1986,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1986.nc
+mvimd,era5,sfc,1deg,daily,1987,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1987.nc
+mvimd,era5,sfc,1deg,daily,1988,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1988.nc
+mvimd,era5,sfc,1deg,daily,1989,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1989.nc
+mvimd,era5,sfc,1deg,daily,1990,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1990.nc
+mvimd,era5,sfc,1deg,daily,1991,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1991.nc
+mvimd,era5,sfc,1deg,daily,1992,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1992.nc
+mvimd,era5,sfc,1deg,daily,1993,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1993.nc
+mvimd,era5,sfc,1deg,daily,1994,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1994.nc
+mvimd,era5,sfc,1deg,daily,1995,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1995.nc
+mvimd,era5,sfc,1deg,daily,1996,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1996.nc
+mvimd,era5,sfc,1deg,daily,1997,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1997.nc
+mvimd,era5,sfc,1deg,daily,1998,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1998.nc
+mvimd,era5,sfc,1deg,daily,1999,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_1999.nc
+mvimd,era5,sfc,1deg,daily,2000,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2000.nc
+mvimd,era5,sfc,1deg,daily,2001,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2001.nc
+mvimd,era5,sfc,1deg,daily,2002,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2002.nc
+mvimd,era5,sfc,1deg,daily,2003,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2003.nc
+mvimd,era5,sfc,1deg,daily,2004,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2004.nc
+mvimd,era5,sfc,1deg,daily,2005,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2005.nc
+mvimd,era5,sfc,1deg,daily,2006,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2006.nc
+mvimd,era5,sfc,1deg,daily,2007,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2007.nc
+mvimd,era5,sfc,1deg,daily,2008,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2008.nc
+mvimd,era5,sfc,1deg,daily,2009,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2009.nc
+mvimd,era5,sfc,1deg,daily,2010,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2010.nc
+mvimd,era5,sfc,1deg,daily,2011,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2011.nc
+mvimd,era5,sfc,1deg,daily,2012,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2012.nc
+mvimd,era5,sfc,1deg,daily,2013,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2013.nc
+mvimd,era5,sfc,1deg,daily,2014,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2014.nc
+mvimd,era5,sfc,1deg,daily,2015,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2015.nc
+mvimd,era5,sfc,1deg,daily,2016,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2016.nc
+mvimd,era5,sfc,1deg,daily,2017,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2017.nc
+mvimd,era5,sfc,1deg,daily,2018,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2018.nc
+mvimd,era5,sfc,1deg,daily,2019,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2019.nc
+mvimd,era5,sfc,1deg,daily,2020,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2020.nc
+mvimd,era5,sfc,1deg,daily,2021,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2021.nc
+mvimd,era5,sfc,1deg,daily,2022,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2022.nc
+mvimd,era5,sfc,1deg,daily,2023,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2023.nc
+mvimd,era5,sfc,1deg,daily,2024,mvimd,Mean vertically integrated moisture divergence,kg m**-2 s**-1,/g/data/su28/ERA5/daily/mvimd/mvimd_era5_oper_sfc_merge_1deg_daily_2024.nc
+q,era5,pl,1deg,daily,1950,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1950.nc
+q,era5,pl,1deg,daily,1951,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1951.nc
+q,era5,pl,1deg,daily,1952,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1952.nc
+q,era5,pl,1deg,daily,1953,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1953.nc
+q,era5,pl,1deg,daily,1954,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1954.nc
+q,era5,pl,1deg,daily,1955,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1955.nc
+q,era5,pl,1deg,daily,1956,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1956.nc
+q,era5,pl,1deg,daily,1957,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1957.nc
+q,era5,pl,1deg,daily,1958,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1958.nc
+q,era5,pl,1deg,daily,1959,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1959.nc
+q,era5,pl,1deg,daily,1960,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1960.nc
+q,era5,pl,1deg,daily,1961,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1961.nc
+q,era5,pl,1deg,daily,1962,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1962.nc
+q,era5,pl,1deg,daily,1963,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1963.nc
+q,era5,pl,1deg,daily,1964,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1964.nc
+q,era5,pl,1deg,daily,1965,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1965.nc
+q,era5,pl,1deg,daily,1966,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1966.nc
+q,era5,pl,1deg,daily,1967,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1967.nc
+q,era5,pl,1deg,daily,1968,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1968.nc
+q,era5,pl,1deg,daily,1969,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1969.nc
+q,era5,pl,1deg,daily,1970,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1970.nc
+q,era5,pl,1deg,daily,1971,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1971.nc
+q,era5,pl,1deg,daily,1972,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1972.nc
+q,era5,pl,1deg,daily,1973,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1973.nc
+q,era5,pl,1deg,daily,1974,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1974.nc
+q,era5,pl,1deg,daily,1975,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1975.nc
+q,era5,pl,1deg,daily,1976,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1976.nc
+q,era5,pl,1deg,daily,1977,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1977.nc
+q,era5,pl,1deg,daily,1978,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1978.nc
+q,era5,pl,1deg,daily,1979,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1979.nc
+q,era5,pl,1deg,daily,1980,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1980.nc
+q,era5,pl,1deg,daily,1981,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1981.nc
+q,era5,pl,1deg,daily,1982,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1982.nc
+q,era5,pl,1deg,daily,1983,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1983.nc
+q,era5,pl,1deg,daily,1984,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1984.nc
+q,era5,pl,1deg,daily,1985,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1985.nc
+q,era5,pl,1deg,daily,1986,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1986.nc
+q,era5,pl,1deg,daily,1987,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1987.nc
+q,era5,pl,1deg,daily,1988,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1988.nc
+q,era5,pl,1deg,daily,1989,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1989.nc
+q,era5,pl,1deg,daily,1990,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1990.nc
+q,era5,pl,1deg,daily,1991,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1991.nc
+q,era5,pl,1deg,daily,1992,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1992.nc
+q,era5,pl,1deg,daily,1993,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1993.nc
+q,era5,pl,1deg,daily,1994,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1994.nc
+q,era5,pl,1deg,daily,1995,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1995.nc
+q,era5,pl,1deg,daily,1996,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1996.nc
+q,era5,pl,1deg,daily,1997,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1997.nc
+q,era5,pl,1deg,daily,1998,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1998.nc
+q,era5,pl,1deg,daily,1999,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_1999.nc
+q,era5,pl,1deg,daily,2000,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2000.nc
+q,era5,pl,1deg,daily,2001,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2001.nc
+q,era5,pl,1deg,daily,2002,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2002.nc
+q,era5,pl,1deg,daily,2003,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2003.nc
+q,era5,pl,1deg,daily,2004,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2004.nc
+q,era5,pl,1deg,daily,2005,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2005.nc
+q,era5,pl,1deg,daily,2006,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2006.nc
+q,era5,pl,1deg,daily,2007,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2007.nc
+q,era5,pl,1deg,daily,2008,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2008.nc
+q,era5,pl,1deg,daily,2009,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2009.nc
+q,era5,pl,1deg,daily,2010,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2010.nc
+q,era5,pl,1deg,daily,2011,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2011.nc
+q,era5,pl,1deg,daily,2012,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2012.nc
+q,era5,pl,1deg,daily,2013,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2013.nc
+q,era5,pl,1deg,daily,2014,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2014.nc
+q,era5,pl,1deg,daily,2015,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2015.nc
+q,era5,pl,1deg,daily,2016,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2016.nc
+q,era5,pl,1deg,daily,2017,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2017.nc
+q,era5,pl,1deg,daily,2018,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2018.nc
+q,era5,pl,1deg,daily,2019,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2019.nc
+q,era5,pl,1deg,daily,2020,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2020.nc
+q,era5,pl,1deg,daily,2021,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2021.nc
+q,era5,pl,1deg,daily,2022,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2022.nc
+q,era5,pl,1deg,daily,2023,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2023.nc
+q,era5,pl,1deg,daily,2024,q,Specific humidity,kg kg**-1,/g/data/su28/ERA5/daily/q/q_era5_oper_pl_merge_1deg_daily_2024.nc
+t,era5,pl,1deg,daily,1950,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1950.nc
+t,era5,pl,1deg,daily,1951,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1951.nc
+t,era5,pl,1deg,daily,1952,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1952.nc
+t,era5,pl,1deg,daily,1953,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1953.nc
+t,era5,pl,1deg,daily,1954,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1954.nc
+t,era5,pl,1deg,daily,1955,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1955.nc
+t,era5,pl,1deg,daily,1956,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1956.nc
+t,era5,pl,1deg,daily,1957,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1957.nc
+t,era5,pl,1deg,daily,1958,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1958.nc
+t,era5,pl,1deg,daily,1959,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1959.nc
+t,era5,pl,1deg,daily,1960,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1960.nc
+t,era5,pl,1deg,daily,1961,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1961.nc
+t,era5,pl,1deg,daily,1962,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1962.nc
+t,era5,pl,1deg,daily,1963,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1963.nc
+t,era5,pl,1deg,daily,1964,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1964.nc
+t,era5,pl,1deg,daily,1965,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1965.nc
+t,era5,pl,1deg,daily,1966,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1966.nc
+t,era5,pl,1deg,daily,1967,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1967.nc
+t,era5,pl,1deg,daily,1968,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1968.nc
+t,era5,pl,1deg,daily,1969,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1969.nc
+t,era5,pl,1deg,daily,1970,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1970.nc
+t,era5,pl,1deg,daily,1971,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1971.nc
+t,era5,pl,1deg,daily,1972,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1972.nc
+t,era5,pl,1deg,daily,1973,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1973.nc
+t,era5,pl,1deg,daily,1974,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1974.nc
+t,era5,pl,1deg,daily,1975,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1975.nc
+t,era5,pl,1deg,daily,1976,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1976.nc
+t,era5,pl,1deg,daily,1977,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1977.nc
+t,era5,pl,1deg,daily,1978,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1978.nc
+t,era5,pl,1deg,daily,1979,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1979.nc
+t,era5,pl,1deg,daily,1980,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1980.nc
+t,era5,pl,1deg,daily,1981,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1981.nc
+t,era5,pl,1deg,daily,1982,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1982.nc
+t,era5,pl,1deg,daily,1983,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1983.nc
+t,era5,pl,1deg,daily,1984,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1984.nc
+t,era5,pl,1deg,daily,1985,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1985.nc
+t,era5,pl,1deg,daily,1986,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1986.nc
+t,era5,pl,1deg,daily,1987,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1987.nc
+t,era5,pl,1deg,daily,1988,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1988.nc
+t,era5,pl,1deg,daily,1989,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1989.nc
+t,era5,pl,1deg,daily,1990,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1990.nc
+t,era5,pl,1deg,daily,1991,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1991.nc
+t,era5,pl,1deg,daily,1992,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1992.nc
+t,era5,pl,1deg,daily,1993,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1993.nc
+t,era5,pl,1deg,daily,1994,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1994.nc
+t,era5,pl,1deg,daily,1995,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1995.nc
+t,era5,pl,1deg,daily,1996,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1996.nc
+t,era5,pl,1deg,daily,1997,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1997.nc
+t,era5,pl,1deg,daily,1998,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1998.nc
+t,era5,pl,1deg,daily,1999,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_1999.nc
+t,era5,pl,1deg,daily,2000,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2000.nc
+t,era5,pl,1deg,daily,2001,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2001.nc
+t,era5,pl,1deg,daily,2002,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2002.nc
+t,era5,pl,1deg,daily,2003,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2003.nc
+t,era5,pl,1deg,daily,2004,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2004.nc
+t,era5,pl,1deg,daily,2005,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2005.nc
+t,era5,pl,1deg,daily,2006,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2006.nc
+t,era5,pl,1deg,daily,2007,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2007.nc
+t,era5,pl,1deg,daily,2008,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2008.nc
+t,era5,pl,1deg,daily,2009,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2009.nc
+t,era5,pl,1deg,daily,2010,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2010.nc
+t,era5,pl,1deg,daily,2011,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2011.nc
+t,era5,pl,1deg,daily,2012,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2012.nc
+t,era5,pl,1deg,daily,2013,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2013.nc
+t,era5,pl,1deg,daily,2014,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2014.nc
+t,era5,pl,1deg,daily,2015,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2015.nc
+t,era5,pl,1deg,daily,2016,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2016.nc
+t,era5,pl,1deg,daily,2017,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2017.nc
+t,era5,pl,1deg,daily,2018,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2018.nc
+t,era5,pl,1deg,daily,2019,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2019.nc
+t,era5,pl,1deg,daily,2020,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2020.nc
+t,era5,pl,1deg,daily,2021,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2021.nc
+t,era5,pl,1deg,daily,2022,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2022.nc
+t,era5,pl,1deg,daily,2023,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2023.nc
+t,era5,pl,1deg,daily,2024,t,Temperature,K,/g/data/su28/ERA5/daily/t/t_era5_oper_pl_merge_1deg_daily_2024.nc
+tp,era5,sfc,1deg,daily,1950,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1950.nc
+tp,era5,sfc,1deg,daily,1951,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1951.nc
+tp,era5,sfc,1deg,daily,1952,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1952.nc
+tp,era5,sfc,1deg,daily,1953,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1953.nc
+tp,era5,sfc,1deg,daily,1954,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1954.nc
+tp,era5,sfc,1deg,daily,1955,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1955.nc
+tp,era5,sfc,1deg,daily,1956,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1956.nc
+tp,era5,sfc,1deg,daily,1957,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1957.nc
+tp,era5,sfc,1deg,daily,1958,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1958.nc
+tp,era5,sfc,1deg,daily,1959,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1959.nc
+tp,era5,sfc,1deg,daily,1960,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1960.nc
+tp,era5,sfc,1deg,daily,1961,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1961.nc
+tp,era5,sfc,1deg,daily,1962,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1962.nc
+tp,era5,sfc,1deg,daily,1963,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1963.nc
+tp,era5,sfc,1deg,daily,1964,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1964.nc
+tp,era5,sfc,1deg,daily,1965,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1965.nc
+tp,era5,sfc,1deg,daily,1966,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1966.nc
+tp,era5,sfc,1deg,daily,1967,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1967.nc
+tp,era5,sfc,1deg,daily,1968,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1968.nc
+tp,era5,sfc,1deg,daily,1969,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1969.nc
+tp,era5,sfc,1deg,daily,1970,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1970.nc
+tp,era5,sfc,1deg,daily,1971,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1971.nc
+tp,era5,sfc,1deg,daily,1972,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1972.nc
+tp,era5,sfc,1deg,daily,1973,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1973.nc
+tp,era5,sfc,1deg,daily,1974,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1974.nc
+tp,era5,sfc,1deg,daily,1975,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1975.nc
+tp,era5,sfc,1deg,daily,1976,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1976.nc
+tp,era5,sfc,1deg,daily,1977,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1977.nc
+tp,era5,sfc,1deg,daily,1978,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1978.nc
+tp,era5,sfc,1deg,daily,1979,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1979.nc
+tp,era5,sfc,1deg,daily,1980,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1980.nc
+tp,era5,sfc,1deg,daily,1981,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1981.nc
+tp,era5,sfc,1deg,daily,1982,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1982.nc
+tp,era5,sfc,1deg,daily,1983,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1983.nc
+tp,era5,sfc,1deg,daily,1984,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1984.nc
+tp,era5,sfc,1deg,daily,1985,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1985.nc
+tp,era5,sfc,1deg,daily,1986,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1986.nc
+tp,era5,sfc,1deg,daily,1987,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1987.nc
+tp,era5,sfc,1deg,daily,1988,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1988.nc
+tp,era5,sfc,1deg,daily,1989,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1989.nc
+tp,era5,sfc,1deg,daily,1990,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1990.nc
+tp,era5,sfc,1deg,daily,1991,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1991.nc
+tp,era5,sfc,1deg,daily,1992,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1992.nc
+tp,era5,sfc,1deg,daily,1993,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1993.nc
+tp,era5,sfc,1deg,daily,1994,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1994.nc
+tp,era5,sfc,1deg,daily,1995,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1995.nc
+tp,era5,sfc,1deg,daily,1996,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1996.nc
+tp,era5,sfc,1deg,daily,1997,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1997.nc
+tp,era5,sfc,1deg,daily,1998,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1998.nc
+tp,era5,sfc,1deg,daily,1999,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_1999.nc
+tp,era5,sfc,1deg,daily,2000,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2000.nc
+tp,era5,sfc,1deg,daily,2001,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2001.nc
+tp,era5,sfc,1deg,daily,2002,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2002.nc
+tp,era5,sfc,1deg,daily,2003,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2003.nc
+tp,era5,sfc,1deg,daily,2004,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2004.nc
+tp,era5,sfc,1deg,daily,2005,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2005.nc
+tp,era5,sfc,1deg,daily,2006,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2006.nc
+tp,era5,sfc,1deg,daily,2007,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2007.nc
+tp,era5,sfc,1deg,daily,2008,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2008.nc
+tp,era5,sfc,1deg,daily,2009,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2009.nc
+tp,era5,sfc,1deg,daily,2010,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2010.nc
+tp,era5,sfc,1deg,daily,2011,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2011.nc
+tp,era5,sfc,1deg,daily,2012,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2012.nc
+tp,era5,sfc,1deg,daily,2013,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2013.nc
+tp,era5,sfc,1deg,daily,2014,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2014.nc
+tp,era5,sfc,1deg,daily,2015,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2015.nc
+tp,era5,sfc,1deg,daily,2016,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2016.nc
+tp,era5,sfc,1deg,daily,2017,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2017.nc
+tp,era5,sfc,1deg,daily,2018,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2018.nc
+tp,era5,sfc,1deg,daily,2019,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2019.nc
+tp,era5,sfc,1deg,daily,2020,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2020.nc
+tp,era5,sfc,1deg,daily,2021,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2021.nc
+tp,era5,sfc,1deg,daily,2022,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2022.nc
+tp,era5,sfc,1deg,daily,2023,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2023.nc
+tp,era5,sfc,1deg,daily,2024,tp,Total precipitation,m,/g/data/su28/ERA5/daily/tp/tp_era5_oper_sfc_merge_1deg_daily_2024.nc
+u,era5,pl,1deg,daily,1950,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1950.nc
+u,era5,pl,1deg,daily,1951,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1951.nc
+u,era5,pl,1deg,daily,1952,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1952.nc
+u,era5,pl,1deg,daily,1953,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1953.nc
+u,era5,pl,1deg,daily,1954,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1954.nc
+u,era5,pl,1deg,daily,1955,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1955.nc
+u,era5,pl,1deg,daily,1956,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1956.nc
+u,era5,pl,1deg,daily,1957,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1957.nc
+u,era5,pl,1deg,daily,1958,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1958.nc
+u,era5,pl,1deg,daily,1959,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1959.nc
+u,era5,pl,1deg,daily,1960,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1960.nc
+u,era5,pl,1deg,daily,1961,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1961.nc
+u,era5,pl,1deg,daily,1962,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1962.nc
+u,era5,pl,1deg,daily,1963,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1963.nc
+u,era5,pl,1deg,daily,1964,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1964.nc
+u,era5,pl,1deg,daily,1965,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1965.nc
+u,era5,pl,1deg,daily,1966,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1966.nc
+u,era5,pl,1deg,daily,1967,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1967.nc
+u,era5,pl,1deg,daily,1968,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1968.nc
+u,era5,pl,1deg,daily,1969,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1969.nc
+u,era5,pl,1deg,daily,1970,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1970.nc
+u,era5,pl,1deg,daily,1971,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1971.nc
+u,era5,pl,1deg,daily,1972,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1972.nc
+u,era5,pl,1deg,daily,1973,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1973.nc
+u,era5,pl,1deg,daily,1974,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1974.nc
+u,era5,pl,1deg,daily,1975,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1975.nc
+u,era5,pl,1deg,daily,1976,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1976.nc
+u,era5,pl,1deg,daily,1977,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1977.nc
+u,era5,pl,1deg,daily,1978,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1978.nc
+u,era5,pl,1deg,daily,1979,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1979.nc
+u,era5,pl,1deg,daily,1980,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1980.nc
+u,era5,pl,1deg,daily,1981,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1981.nc
+u,era5,pl,1deg,daily,1982,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1982.nc
+u,era5,pl,1deg,daily,1983,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1983.nc
+u,era5,pl,1deg,daily,1984,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1984.nc
+u,era5,pl,1deg,daily,1985,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1985.nc
+u,era5,pl,1deg,daily,1986,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1986.nc
+u,era5,pl,1deg,daily,1987,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1987.nc
+u,era5,pl,1deg,daily,1988,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1988.nc
+u,era5,pl,1deg,daily,1989,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1989.nc
+u,era5,pl,1deg,daily,1990,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1990.nc
+u,era5,pl,1deg,daily,1991,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1991.nc
+u,era5,pl,1deg,daily,1992,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1992.nc
+u,era5,pl,1deg,daily,1993,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1993.nc
+u,era5,pl,1deg,daily,1994,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1994.nc
+u,era5,pl,1deg,daily,1995,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1995.nc
+u,era5,pl,1deg,daily,1996,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1996.nc
+u,era5,pl,1deg,daily,1997,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1997.nc
+u,era5,pl,1deg,daily,1998,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1998.nc
+u,era5,pl,1deg,daily,1999,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_1999.nc
+u,era5,pl,1deg,daily,2000,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2000.nc
+u,era5,pl,1deg,daily,2001,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2001.nc
+u,era5,pl,1deg,daily,2002,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2002.nc
+u,era5,pl,1deg,daily,2003,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2003.nc
+u,era5,pl,1deg,daily,2004,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2004.nc
+u,era5,pl,1deg,daily,2005,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2005.nc
+u,era5,pl,1deg,daily,2006,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2006.nc
+u,era5,pl,1deg,daily,2007,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2007.nc
+u,era5,pl,1deg,daily,2008,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2008.nc
+u,era5,pl,1deg,daily,2009,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2009.nc
+u,era5,pl,1deg,daily,2010,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2010.nc
+u,era5,pl,1deg,daily,2011,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2011.nc
+u,era5,pl,1deg,daily,2012,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2012.nc
+u,era5,pl,1deg,daily,2013,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2013.nc
+u,era5,pl,1deg,daily,2014,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2014.nc
+u,era5,pl,1deg,daily,2015,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2015.nc
+u,era5,pl,1deg,daily,2016,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2016.nc
+u,era5,pl,1deg,daily,2017,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2017.nc
+u,era5,pl,1deg,daily,2018,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2018.nc
+u,era5,pl,1deg,daily,2019,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2019.nc
+u,era5,pl,1deg,daily,2020,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2020.nc
+u,era5,pl,1deg,daily,2021,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2021.nc
+u,era5,pl,1deg,daily,2022,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2022.nc
+u,era5,pl,1deg,daily,2023,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2023.nc
+u,era5,pl,1deg,daily,2024,u,U component of wind,m s**-1,/g/data/su28/ERA5/daily/u/u_era5_oper_pl_merge_1deg_daily_2024.nc
+v,era5,pl,1deg,daily,1950,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1950.nc
+v,era5,pl,1deg,daily,1951,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1951.nc
+v,era5,pl,1deg,daily,1952,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1952.nc
+v,era5,pl,1deg,daily,1953,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1953.nc
+v,era5,pl,1deg,daily,1954,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1954.nc
+v,era5,pl,1deg,daily,1955,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1955.nc
+v,era5,pl,1deg,daily,1956,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1956.nc
+v,era5,pl,1deg,daily,1957,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1957.nc
+v,era5,pl,1deg,daily,1958,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1958.nc
+v,era5,pl,1deg,daily,1959,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1959.nc
+v,era5,pl,1deg,daily,1960,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1960.nc
+v,era5,pl,1deg,daily,1961,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1961.nc
+v,era5,pl,1deg,daily,1962,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1962.nc
+v,era5,pl,1deg,daily,1963,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1963.nc
+v,era5,pl,1deg,daily,1964,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1964.nc
+v,era5,pl,1deg,daily,1965,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1965.nc
+v,era5,pl,1deg,daily,1966,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1966.nc
+v,era5,pl,1deg,daily,1967,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1967.nc
+v,era5,pl,1deg,daily,1968,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1968.nc
+v,era5,pl,1deg,daily,1969,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1969.nc
+v,era5,pl,1deg,daily,1970,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1970.nc
+v,era5,pl,1deg,daily,1971,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1971.nc
+v,era5,pl,1deg,daily,1972,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1972.nc
+v,era5,pl,1deg,daily,1973,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1973.nc
+v,era5,pl,1deg,daily,1974,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1974.nc
+v,era5,pl,1deg,daily,1975,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1975.nc
+v,era5,pl,1deg,daily,1976,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1976.nc
+v,era5,pl,1deg,daily,1977,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1977.nc
+v,era5,pl,1deg,daily,1978,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1978.nc
+v,era5,pl,1deg,daily,1979,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1979.nc
+v,era5,pl,1deg,daily,1980,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1980.nc
+v,era5,pl,1deg,daily,1981,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1981.nc
+v,era5,pl,1deg,daily,1982,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1982.nc
+v,era5,pl,1deg,daily,1983,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1983.nc
+v,era5,pl,1deg,daily,1984,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1984.nc
+v,era5,pl,1deg,daily,1985,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1985.nc
+v,era5,pl,1deg,daily,1986,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1986.nc
+v,era5,pl,1deg,daily,1987,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1987.nc
+v,era5,pl,1deg,daily,1988,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1988.nc
+v,era5,pl,1deg,daily,1989,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1989.nc
+v,era5,pl,1deg,daily,1990,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1990.nc
+v,era5,pl,1deg,daily,1991,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1991.nc
+v,era5,pl,1deg,daily,1992,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1992.nc
+v,era5,pl,1deg,daily,1993,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1993.nc
+v,era5,pl,1deg,daily,1994,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1994.nc
+v,era5,pl,1deg,daily,1995,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1995.nc
+v,era5,pl,1deg,daily,1996,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1996.nc
+v,era5,pl,1deg,daily,1997,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1997.nc
+v,era5,pl,1deg,daily,1998,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1998.nc
+v,era5,pl,1deg,daily,1999,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_1999.nc
+v,era5,pl,1deg,daily,2000,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2000.nc
+v,era5,pl,1deg,daily,2001,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2001.nc
+v,era5,pl,1deg,daily,2002,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2002.nc
+v,era5,pl,1deg,daily,2003,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2003.nc
+v,era5,pl,1deg,daily,2004,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2004.nc
+v,era5,pl,1deg,daily,2005,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2005.nc
+v,era5,pl,1deg,daily,2006,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2006.nc
+v,era5,pl,1deg,daily,2007,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2007.nc
+v,era5,pl,1deg,daily,2008,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2008.nc
+v,era5,pl,1deg,daily,2009,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2009.nc
+v,era5,pl,1deg,daily,2010,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2010.nc
+v,era5,pl,1deg,daily,2011,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2011.nc
+v,era5,pl,1deg,daily,2012,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2012.nc
+v,era5,pl,1deg,daily,2013,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2013.nc
+v,era5,pl,1deg,daily,2014,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2014.nc
+v,era5,pl,1deg,daily,2015,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2015.nc
+v,era5,pl,1deg,daily,2016,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2016.nc
+v,era5,pl,1deg,daily,2017,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2017.nc
+v,era5,pl,1deg,daily,2018,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2018.nc
+v,era5,pl,1deg,daily,2019,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2019.nc
+v,era5,pl,1deg,daily,2020,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2020.nc
+v,era5,pl,1deg,daily,2021,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2021.nc
+v,era5,pl,1deg,daily,2022,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2022.nc
+v,era5,pl,1deg,daily,2023,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2023.nc
+v,era5,pl,1deg,daily,2024,v,V component of wind,m s**-1,/g/data/su28/ERA5/daily/v/v_era5_oper_pl_merge_1deg_daily_2024.nc
+viwve,era5,sfc,1deg,daily,1959,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1959.nc
+viwve,era5,sfc,1deg,daily,1960,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1960.nc
+viwve,era5,sfc,1deg,daily,1961,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1961.nc
+viwve,era5,sfc,1deg,daily,1962,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1962.nc
+viwve,era5,sfc,1deg,daily,1963,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1963.nc
+viwve,era5,sfc,1deg,daily,1964,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1964.nc
+viwve,era5,sfc,1deg,daily,1965,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1965.nc
+viwve,era5,sfc,1deg,daily,1966,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1966.nc
+viwve,era5,sfc,1deg,daily,1967,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1967.nc
+viwve,era5,sfc,1deg,daily,1968,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1968.nc
+viwve,era5,sfc,1deg,daily,1969,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1969.nc
+viwve,era5,sfc,1deg,daily,1970,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1970.nc
+viwve,era5,sfc,1deg,daily,1971,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1971.nc
+viwve,era5,sfc,1deg,daily,1972,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1972.nc
+viwve,era5,sfc,1deg,daily,1973,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1973.nc
+viwve,era5,sfc,1deg,daily,1974,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1974.nc
+viwve,era5,sfc,1deg,daily,1975,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1975.nc
+viwve,era5,sfc,1deg,daily,1976,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1976.nc
+viwve,era5,sfc,1deg,daily,1977,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1977.nc
+viwve,era5,sfc,1deg,daily,1978,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1978.nc
+viwve,era5,sfc,1deg,daily,1979,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1979.nc
+viwve,era5,sfc,1deg,daily,1980,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1980.nc
+viwve,era5,sfc,1deg,daily,1981,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1981.nc
+viwve,era5,sfc,1deg,daily,1982,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1982.nc
+viwve,era5,sfc,1deg,daily,1983,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1983.nc
+viwve,era5,sfc,1deg,daily,1984,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1984.nc
+viwve,era5,sfc,1deg,daily,1985,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1985.nc
+viwve,era5,sfc,1deg,daily,1986,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1986.nc
+viwve,era5,sfc,1deg,daily,1987,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1987.nc
+viwve,era5,sfc,1deg,daily,1988,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1988.nc
+viwve,era5,sfc,1deg,daily,1989,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1989.nc
+viwve,era5,sfc,1deg,daily,1990,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1990.nc
+viwve,era5,sfc,1deg,daily,1991,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1991.nc
+viwve,era5,sfc,1deg,daily,1992,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1992.nc
+viwve,era5,sfc,1deg,daily,1993,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1993.nc
+viwve,era5,sfc,1deg,daily,1994,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1994.nc
+viwve,era5,sfc,1deg,daily,1995,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1995.nc
+viwve,era5,sfc,1deg,daily,1996,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1996.nc
+viwve,era5,sfc,1deg,daily,1997,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1997.nc
+viwve,era5,sfc,1deg,daily,1998,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1998.nc
+viwve,era5,sfc,1deg,daily,1999,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_1999.nc
+viwve,era5,sfc,1deg,daily,2000,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2000.nc
+viwve,era5,sfc,1deg,daily,2001,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2001.nc
+viwve,era5,sfc,1deg,daily,2002,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2002.nc
+viwve,era5,sfc,1deg,daily,2003,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2003.nc
+viwve,era5,sfc,1deg,daily,2004,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2004.nc
+viwve,era5,sfc,1deg,daily,2005,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2005.nc
+viwve,era5,sfc,1deg,daily,2006,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2006.nc
+viwve,era5,sfc,1deg,daily,2007,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2007.nc
+viwve,era5,sfc,1deg,daily,2008,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2008.nc
+viwve,era5,sfc,1deg,daily,2009,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2009.nc
+viwve,era5,sfc,1deg,daily,2010,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2010.nc
+viwve,era5,sfc,1deg,daily,2011,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2011.nc
+viwve,era5,sfc,1deg,daily,2012,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2012.nc
+viwve,era5,sfc,1deg,daily,2013,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2013.nc
+viwve,era5,sfc,1deg,daily,2014,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2014.nc
+viwve,era5,sfc,1deg,daily,2015,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2015.nc
+viwve,era5,sfc,1deg,daily,2016,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2016.nc
+viwve,era5,sfc,1deg,daily,2017,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2017.nc
+viwve,era5,sfc,1deg,daily,2018,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2018.nc
+viwve,era5,sfc,1deg,daily,2019,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2019.nc
+viwve,era5,sfc,1deg,daily,2020,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2020.nc
+viwve,era5,sfc,1deg,daily,2021,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2021.nc
+viwve,era5,sfc,1deg,daily,2022,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2022.nc
+viwve,era5,sfc,1deg,daily,2023,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2023.nc
+viwve,era5,sfc,1deg,daily,2024,p71.162,Vertical integral of eastward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwve/viwve_era5_oper_sfc_merge_1deg_daily_2024.nc
+viwvn,era5,sfc,1deg,daily,1959,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1959.nc
+viwvn,era5,sfc,1deg,daily,1960,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1960.nc
+viwvn,era5,sfc,1deg,daily,1961,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1961.nc
+viwvn,era5,sfc,1deg,daily,1962,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1962.nc
+viwvn,era5,sfc,1deg,daily,1963,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1963.nc
+viwvn,era5,sfc,1deg,daily,1964,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1964.nc
+viwvn,era5,sfc,1deg,daily,1965,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1965.nc
+viwvn,era5,sfc,1deg,daily,1966,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1966.nc
+viwvn,era5,sfc,1deg,daily,1967,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1967.nc
+viwvn,era5,sfc,1deg,daily,1968,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1968.nc
+viwvn,era5,sfc,1deg,daily,1969,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1969.nc
+viwvn,era5,sfc,1deg,daily,1970,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1970.nc
+viwvn,era5,sfc,1deg,daily,1971,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1971.nc
+viwvn,era5,sfc,1deg,daily,1972,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1972.nc
+viwvn,era5,sfc,1deg,daily,1973,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1973.nc
+viwvn,era5,sfc,1deg,daily,1974,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1974.nc
+viwvn,era5,sfc,1deg,daily,1975,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1975.nc
+viwvn,era5,sfc,1deg,daily,1976,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1976.nc
+viwvn,era5,sfc,1deg,daily,1977,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1977.nc
+viwvn,era5,sfc,1deg,daily,1978,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1978.nc
+viwvn,era5,sfc,1deg,daily,1979,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1979.nc
+viwvn,era5,sfc,1deg,daily,1980,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1980.nc
+viwvn,era5,sfc,1deg,daily,1981,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1981.nc
+viwvn,era5,sfc,1deg,daily,1982,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1982.nc
+viwvn,era5,sfc,1deg,daily,1983,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1983.nc
+viwvn,era5,sfc,1deg,daily,1984,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1984.nc
+viwvn,era5,sfc,1deg,daily,1985,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1985.nc
+viwvn,era5,sfc,1deg,daily,1986,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1986.nc
+viwvn,era5,sfc,1deg,daily,1987,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1987.nc
+viwvn,era5,sfc,1deg,daily,1988,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1988.nc
+viwvn,era5,sfc,1deg,daily,1989,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1989.nc
+viwvn,era5,sfc,1deg,daily,1990,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1990.nc
+viwvn,era5,sfc,1deg,daily,1991,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1991.nc
+viwvn,era5,sfc,1deg,daily,1992,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1992.nc
+viwvn,era5,sfc,1deg,daily,1993,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1993.nc
+viwvn,era5,sfc,1deg,daily,1994,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1994.nc
+viwvn,era5,sfc,1deg,daily,1995,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1995.nc
+viwvn,era5,sfc,1deg,daily,1996,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1996.nc
+viwvn,era5,sfc,1deg,daily,1997,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1997.nc
+viwvn,era5,sfc,1deg,daily,1998,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1998.nc
+viwvn,era5,sfc,1deg,daily,1999,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_1999.nc
+viwvn,era5,sfc,1deg,daily,2000,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2000.nc
+viwvn,era5,sfc,1deg,daily,2001,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2001.nc
+viwvn,era5,sfc,1deg,daily,2002,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2002.nc
+viwvn,era5,sfc,1deg,daily,2003,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2003.nc
+viwvn,era5,sfc,1deg,daily,2004,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2004.nc
+viwvn,era5,sfc,1deg,daily,2005,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2005.nc
+viwvn,era5,sfc,1deg,daily,2006,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2006.nc
+viwvn,era5,sfc,1deg,daily,2007,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2007.nc
+viwvn,era5,sfc,1deg,daily,2008,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2008.nc
+viwvn,era5,sfc,1deg,daily,2009,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2009.nc
+viwvn,era5,sfc,1deg,daily,2010,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2010.nc
+viwvn,era5,sfc,1deg,daily,2011,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2011.nc
+viwvn,era5,sfc,1deg,daily,2012,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2012.nc
+viwvn,era5,sfc,1deg,daily,2013,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2013.nc
+viwvn,era5,sfc,1deg,daily,2014,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2014.nc
+viwvn,era5,sfc,1deg,daily,2015,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2015.nc
+viwvn,era5,sfc,1deg,daily,2016,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2016.nc
+viwvn,era5,sfc,1deg,daily,2017,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2017.nc
+viwvn,era5,sfc,1deg,daily,2018,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2018.nc
+viwvn,era5,sfc,1deg,daily,2019,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2019.nc
+viwvn,era5,sfc,1deg,daily,2020,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2020.nc
+viwvn,era5,sfc,1deg,daily,2021,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2021.nc
+viwvn,era5,sfc,1deg,daily,2022,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2022.nc
+viwvn,era5,sfc,1deg,daily,2023,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2023.nc
+viwvn,era5,sfc,1deg,daily,2024,p72.162,Vertical integral of northward water vapour flux,kg m**-1 s**-1,/g/data/su28/ERA5/daily/viwvn/viwvn_era5_oper_sfc_merge_1deg_daily_2024.nc
+vo,era5,pl,1deg,daily,1950,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1950.nc
+vo,era5,pl,1deg,daily,1951,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1951.nc
+vo,era5,pl,1deg,daily,1952,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1952.nc
+vo,era5,pl,1deg,daily,1953,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1953.nc
+vo,era5,pl,1deg,daily,1954,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1954.nc
+vo,era5,pl,1deg,daily,1955,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1955.nc
+vo,era5,pl,1deg,daily,1956,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1956.nc
+vo,era5,pl,1deg,daily,1957,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1957.nc
+vo,era5,pl,1deg,daily,1958,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1958.nc
+vo,era5,pl,1deg,daily,1959,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1959.nc
+vo,era5,pl,1deg,daily,1960,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1960.nc
+vo,era5,pl,1deg,daily,1961,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1961.nc
+vo,era5,pl,1deg,daily,1962,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1962.nc
+vo,era5,pl,1deg,daily,1963,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1963.nc
+vo,era5,pl,1deg,daily,1964,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1964.nc
+vo,era5,pl,1deg,daily,1965,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1965.nc
+vo,era5,pl,1deg,daily,1966,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1966.nc
+vo,era5,pl,1deg,daily,1967,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1967.nc
+vo,era5,pl,1deg,daily,1968,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1968.nc
+vo,era5,pl,1deg,daily,1969,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1969.nc
+vo,era5,pl,1deg,daily,1970,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1970.nc
+vo,era5,pl,1deg,daily,1971,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1971.nc
+vo,era5,pl,1deg,daily,1972,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1972.nc
+vo,era5,pl,1deg,daily,1973,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1973.nc
+vo,era5,pl,1deg,daily,1974,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1974.nc
+vo,era5,pl,1deg,daily,1975,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1975.nc
+vo,era5,pl,1deg,daily,1976,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1976.nc
+vo,era5,pl,1deg,daily,1977,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1977.nc
+vo,era5,pl,1deg,daily,1978,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1978.nc
+vo,era5,pl,1deg,daily,1979,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1979.nc
+vo,era5,pl,1deg,daily,1980,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1980.nc
+vo,era5,pl,1deg,daily,1981,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1981.nc
+vo,era5,pl,1deg,daily,1982,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1982.nc
+vo,era5,pl,1deg,daily,1983,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1983.nc
+vo,era5,pl,1deg,daily,1984,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1984.nc
+vo,era5,pl,1deg,daily,1985,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1985.nc
+vo,era5,pl,1deg,daily,1986,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1986.nc
+vo,era5,pl,1deg,daily,1987,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1987.nc
+vo,era5,pl,1deg,daily,1988,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1988.nc
+vo,era5,pl,1deg,daily,1989,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1989.nc
+vo,era5,pl,1deg,daily,1990,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1990.nc
+vo,era5,pl,1deg,daily,1991,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1991.nc
+vo,era5,pl,1deg,daily,1992,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1992.nc
+vo,era5,pl,1deg,daily,1993,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1993.nc
+vo,era5,pl,1deg,daily,1994,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1994.nc
+vo,era5,pl,1deg,daily,1995,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1995.nc
+vo,era5,pl,1deg,daily,1996,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1996.nc
+vo,era5,pl,1deg,daily,1997,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1997.nc
+vo,era5,pl,1deg,daily,1998,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1998.nc
+vo,era5,pl,1deg,daily,1999,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_1999.nc
+vo,era5,pl,1deg,daily,2000,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2000.nc
+vo,era5,pl,1deg,daily,2001,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2001.nc
+vo,era5,pl,1deg,daily,2002,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2002.nc
+vo,era5,pl,1deg,daily,2003,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2003.nc
+vo,era5,pl,1deg,daily,2004,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2004.nc
+vo,era5,pl,1deg,daily,2005,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2005.nc
+vo,era5,pl,1deg,daily,2006,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2006.nc
+vo,era5,pl,1deg,daily,2007,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2007.nc
+vo,era5,pl,1deg,daily,2008,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2008.nc
+vo,era5,pl,1deg,daily,2009,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2009.nc
+vo,era5,pl,1deg,daily,2010,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2010.nc
+vo,era5,pl,1deg,daily,2011,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2011.nc
+vo,era5,pl,1deg,daily,2012,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2012.nc
+vo,era5,pl,1deg,daily,2013,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2013.nc
+vo,era5,pl,1deg,daily,2014,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2014.nc
+vo,era5,pl,1deg,daily,2015,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2015.nc
+vo,era5,pl,1deg,daily,2016,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2016.nc
+vo,era5,pl,1deg,daily,2017,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2017.nc
+vo,era5,pl,1deg,daily,2018,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2018.nc
+vo,era5,pl,1deg,daily,2019,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2019.nc
+vo,era5,pl,1deg,daily,2020,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2020.nc
+vo,era5,pl,1deg,daily,2021,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2021.nc
+vo,era5,pl,1deg,daily,2022,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2022.nc
+vo,era5,pl,1deg,daily,2023,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2023.nc
+vo,era5,pl,1deg,daily,2024,vo,Vorticity (relative),s**-1,/g/data/su28/ERA5/daily/vo/vo_era5_oper_pl_merge_1deg_daily_2024.nc
+w,era5,pl,1deg,daily,1950,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1950.nc
+w,era5,pl,1deg,daily,1951,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1951.nc
+w,era5,pl,1deg,daily,1952,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1952.nc
+w,era5,pl,1deg,daily,1953,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1953.nc
+w,era5,pl,1deg,daily,1954,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1954.nc
+w,era5,pl,1deg,daily,1955,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1955.nc
+w,era5,pl,1deg,daily,1956,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1956.nc
+w,era5,pl,1deg,daily,1957,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1957.nc
+w,era5,pl,1deg,daily,1958,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1958.nc
+w,era5,pl,1deg,daily,1959,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1959.nc
+w,era5,pl,1deg,daily,1960,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1960.nc
+w,era5,pl,1deg,daily,1961,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1961.nc
+w,era5,pl,1deg,daily,1962,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1962.nc
+w,era5,pl,1deg,daily,1963,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1963.nc
+w,era5,pl,1deg,daily,1964,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1964.nc
+w,era5,pl,1deg,daily,1965,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1965.nc
+w,era5,pl,1deg,daily,1966,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1966.nc
+w,era5,pl,1deg,daily,1967,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1967.nc
+w,era5,pl,1deg,daily,1968,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1968.nc
+w,era5,pl,1deg,daily,1969,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1969.nc
+w,era5,pl,1deg,daily,1970,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1970.nc
+w,era5,pl,1deg,daily,1971,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1971.nc
+w,era5,pl,1deg,daily,1972,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1972.nc
+w,era5,pl,1deg,daily,1973,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1973.nc
+w,era5,pl,1deg,daily,1974,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1974.nc
+w,era5,pl,1deg,daily,1975,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1975.nc
+w,era5,pl,1deg,daily,1976,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1976.nc
+w,era5,pl,1deg,daily,1977,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1977.nc
+w,era5,pl,1deg,daily,1978,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1978.nc
+w,era5,pl,1deg,daily,1979,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1979.nc
+w,era5,pl,1deg,daily,1980,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1980.nc
+w,era5,pl,1deg,daily,1981,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1981.nc
+w,era5,pl,1deg,daily,1982,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1982.nc
+w,era5,pl,1deg,daily,1983,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1983.nc
+w,era5,pl,1deg,daily,1984,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1984.nc
+w,era5,pl,1deg,daily,1985,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1985.nc
+w,era5,pl,1deg,daily,1986,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1986.nc
+w,era5,pl,1deg,daily,1987,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1987.nc
+w,era5,pl,1deg,daily,1988,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1988.nc
+w,era5,pl,1deg,daily,1989,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1989.nc
+w,era5,pl,1deg,daily,1990,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1990.nc
+w,era5,pl,1deg,daily,1991,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1991.nc
+w,era5,pl,1deg,daily,1992,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1992.nc
+w,era5,pl,1deg,daily,1993,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1993.nc
+w,era5,pl,1deg,daily,1994,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1994.nc
+w,era5,pl,1deg,daily,1995,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1995.nc
+w,era5,pl,1deg,daily,1996,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1996.nc
+w,era5,pl,1deg,daily,1997,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1997.nc
+w,era5,pl,1deg,daily,1998,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1998.nc
+w,era5,pl,1deg,daily,1999,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_1999.nc
+w,era5,pl,1deg,daily,2000,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2000.nc
+w,era5,pl,1deg,daily,2001,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2001.nc
+w,era5,pl,1deg,daily,2002,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2002.nc
+w,era5,pl,1deg,daily,2003,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2003.nc
+w,era5,pl,1deg,daily,2004,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2004.nc
+w,era5,pl,1deg,daily,2005,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2005.nc
+w,era5,pl,1deg,daily,2006,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2006.nc
+w,era5,pl,1deg,daily,2007,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2007.nc
+w,era5,pl,1deg,daily,2008,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2008.nc
+w,era5,pl,1deg,daily,2009,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2009.nc
+w,era5,pl,1deg,daily,2010,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2010.nc
+w,era5,pl,1deg,daily,2011,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2011.nc
+w,era5,pl,1deg,daily,2012,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2012.nc
+w,era5,pl,1deg,daily,2013,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2013.nc
+w,era5,pl,1deg,daily,2014,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2014.nc
+w,era5,pl,1deg,daily,2015,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2015.nc
+w,era5,pl,1deg,daily,2016,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2016.nc
+w,era5,pl,1deg,daily,2017,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2017.nc
+w,era5,pl,1deg,daily,2018,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2018.nc
+w,era5,pl,1deg,daily,2019,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2019.nc
+w,era5,pl,1deg,daily,2020,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2020.nc
+w,era5,pl,1deg,daily,2021,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2021.nc
+w,era5,pl,1deg,daily,2022,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2022.nc
+w,era5,pl,1deg,daily,2023,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2023.nc
+w,era5,pl,1deg,daily,2024,w,Vertical velocity,Pa s**-1,/g/data/su28/ERA5/daily/w/w_era5_oper_pl_merge_1deg_daily_2024.nc
+z,era5,pl,1deg,daily,1950,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1950.nc
+z,era5,pl,1deg,daily,1951,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1951.nc
+z,era5,pl,1deg,daily,1952,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1952.nc
+z,era5,pl,1deg,daily,1953,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1953.nc
+z,era5,pl,1deg,daily,1954,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1954.nc
+z,era5,pl,1deg,daily,1955,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1955.nc
+z,era5,pl,1deg,daily,1956,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1956.nc
+z,era5,pl,1deg,daily,1957,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1957.nc
+z,era5,pl,1deg,daily,1958,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1958.nc
+z,era5,pl,1deg,daily,1959,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1959.nc
+z,era5,pl,1deg,daily,1960,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1960.nc
+z,era5,pl,1deg,daily,1961,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1961.nc
+z,era5,pl,1deg,daily,1962,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1962.nc
+z,era5,pl,1deg,daily,1963,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1963.nc
+z,era5,pl,1deg,daily,1964,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1964.nc
+z,era5,pl,1deg,daily,1965,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1965.nc
+z,era5,pl,1deg,daily,1966,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1966.nc
+z,era5,pl,1deg,daily,1967,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1967.nc
+z,era5,pl,1deg,daily,1968,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1968.nc
+z,era5,pl,1deg,daily,1969,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1969.nc
+z,era5,pl,1deg,daily,1970,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1970.nc
+z,era5,pl,1deg,daily,1971,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1971.nc
+z,era5,pl,1deg,daily,1972,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1972.nc
+z,era5,pl,1deg,daily,1973,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1973.nc
+z,era5,pl,1deg,daily,1974,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1974.nc
+z,era5,pl,1deg,daily,1975,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1975.nc
+z,era5,pl,1deg,daily,1976,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1976.nc
+z,era5,pl,1deg,daily,1977,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1977.nc
+z,era5,pl,1deg,daily,1978,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1978.nc
+z,era5,pl,1deg,daily,1979,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1979.nc
+z,era5,pl,1deg,daily,1980,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1980.nc
+z,era5,pl,1deg,daily,1981,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1981.nc
+z,era5,pl,1deg,daily,1982,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1982.nc
+z,era5,pl,1deg,daily,1983,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1983.nc
+z,era5,pl,1deg,daily,1984,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1984.nc
+z,era5,pl,1deg,daily,1985,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1985.nc
+z,era5,pl,1deg,daily,1986,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1986.nc
+z,era5,pl,1deg,daily,1987,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1987.nc
+z,era5,pl,1deg,daily,1988,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1988.nc
+z,era5,pl,1deg,daily,1989,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1989.nc
+z,era5,pl,1deg,daily,1990,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1990.nc
+z,era5,pl,1deg,daily,1991,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1991.nc
+z,era5,pl,1deg,daily,1992,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1992.nc
+z,era5,pl,1deg,daily,1993,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1993.nc
+z,era5,pl,1deg,daily,1994,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1994.nc
+z,era5,pl,1deg,daily,1995,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1995.nc
+z,era5,pl,1deg,daily,1996,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1996.nc
+z,era5,pl,1deg,daily,1997,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1997.nc
+z,era5,pl,1deg,daily,1998,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1998.nc
+z,era5,pl,1deg,daily,1999,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_1999.nc
+z,era5,pl,1deg,daily,2000,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2000.nc
+z,era5,pl,1deg,daily,2001,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2001.nc
+z,era5,pl,1deg,daily,2002,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2002.nc
+z,era5,pl,1deg,daily,2003,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2003.nc
+z,era5,pl,1deg,daily,2004,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2004.nc
+z,era5,pl,1deg,daily,2005,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2005.nc
+z,era5,pl,1deg,daily,2006,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2006.nc
+z,era5,pl,1deg,daily,2007,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2007.nc
+z,era5,pl,1deg,daily,2008,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2008.nc
+z,era5,pl,1deg,daily,2009,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2009.nc
+z,era5,pl,1deg,daily,2010,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2010.nc
+z,era5,pl,1deg,daily,2011,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2011.nc
+z,era5,pl,1deg,daily,2012,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2012.nc
+z,era5,pl,1deg,daily,2013,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2013.nc
+z,era5,pl,1deg,daily,2014,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2014.nc
+z,era5,pl,1deg,daily,2015,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2015.nc
+z,era5,pl,1deg,daily,2016,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2016.nc
+z,era5,pl,1deg,daily,2017,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2017.nc
+z,era5,pl,1deg,daily,2018,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2018.nc
+z,era5,pl,1deg,daily,2019,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2019.nc
+z,era5,pl,1deg,daily,2020,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2020.nc
+z,era5,pl,1deg,daily,2021,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2021.nc
+z,era5,pl,1deg,daily,2022,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2022.nc
+z,era5,pl,1deg,daily,2023,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2023.nc
+z,era5,pl,1deg,daily,2024,z,Geopotential,m**2 s**-2,/g/data/su28/ERA5/daily/z/z_era5_oper_pl_merge_1deg_daily_2024.nc
