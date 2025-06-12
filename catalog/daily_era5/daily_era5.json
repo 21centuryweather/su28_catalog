@@ -50,14 +50,13 @@
   "aggregation_control": {
     "variable_column_name": "name_in_file",
     "groupby_attrs": [
-      "variable"
+      "variable",
+      "dataset",
+      "level",
+      "resolution",
+      "frequency"
     ],
     "aggregations": [
-      {
-        "type": "union",
-        "attribute_name": "variable",
-        "options": {}
-      },
       {
         "type": "join_existing",
         "attribute_name": "time_range",
@@ -72,6 +71,6 @@
   "id": "daily_era5",
   "description": "ERA5 is a climate reanalysis dataset, covering the period 1950 to present. This dataset includes 2d and 3d common variables in daily frequency. The data was also remaped from 0.25 degree to 1 degree. INFO: https://21centuryweather.github.io/21st-Century-Weather-Software-Wiki/datasets/daily-era5.html",
   "title": null,
-  "last_updated": "2025-06-10T04:13:42Z",
+  "last_updated": "2025-06-12T03:46:15Z",
   "catalog_file": "file:///g/data/su28/tools/su28_catalog/catalog/daily_era5/daily_era5.csv"
 }

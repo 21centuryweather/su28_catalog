@@ -1,7 +1,5 @@
 import pathlib
-#import intake
 from ecgtools import Builder
-#import xarray as xr
 from parse_filenames import parse_daily_era5
 
 cat_builder = Builder(
@@ -29,10 +27,9 @@ cat_builder.save(
     # Data file format - could be netcdf or zarr (in this case, netcdf)
     data_format="netcdf",
     # Which attributes to groupby when reading in variables using intake-esm
-    groupby_attrs=["variable"],
+    groupby_attrs=["variable", "dataset", "level", "resolution", "frequency"],
     # Aggregations which are fed into xarray when reading in data using intake
     aggregations=[
-        {'type': 'union', 'attribute_name': 'variable'},
         {
             "type": "join_existing",
             "attribute_name": "time_range",
