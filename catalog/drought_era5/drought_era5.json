@@ -1,0 +1,75 @@
+{
+  "esmcat_version": "0.0.1",
+  "attributes": [
+    {
+      "column_name": "variable",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "dataset",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "accumulation",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "resolution",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "frequency",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "year_month",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "reference",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "name_in_file",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "long_name",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "path",
+      "vocabulary": ""
+    }
+  ],
+  "assets": {
+    "column_name": "path",
+    "format": "netcdf",
+    "format_column_name": null
+  },
+  "aggregation_control": {
+    "variable_column_name": "name_in_file",
+    "groupby_attrs": [
+      "variable",
+      "accumulation",
+      "reference",
+      "year_month"
+    ],
+    "aggregations": [
+      {
+        "type": "join_existing",
+        "attribute_name": "time_range",
+        "options": {
+          "dim": "time",
+          "coords": "minimal",
+          "compat": "override"
+        }
+      }
+    ]
+  },
+  "id": "drought_era5",
+  "description": "Monthly drought indices from 1940 to present derived from ERA5 reanalysis is a global reconstruction of drought indices from 1940 to present. INFO: https://21centuryweather.github.io/21st-Century-Weather-Software-Wiki/datasets/drought-era5.html",
+  "title": null,
+  "last_updated": "2025-06-12T05:22:22Z",
+  "catalog_file": "file:///g/data/su28/tools/su28_catalog/catalog/drought_era5/drought_era5.csv"
+}

@@ -20,4 +20,25 @@ sources:
       name: daily_era5
       nominal_resolution:
       - 1degree
-
+  drought_era5:
+    args:
+      obj: /g/data/su28/tools/su28_catalog/catalog/drought_era5/drought_era5.json
+    description: Drought indicators derived from ERA5 reanalysis
+    driver: intake_esm.core.esm_datastore
+    metadata:
+      contact: RSE team
+      created: 'May, 2025'
+      description: Drought indicators derived from ERA5 reanalysis
+      keywords:
+      - era5
+      - SPI
+      license: Creative Commons Attribution v4
+      long_description: 'Drought Index: Standardized Drought Index calculated according to the WMO 
+          guidelines (see https://library.wmo.int/doc_num.php?explnum_id=7768).
+          Monthly drought indices from 1940 to present derived from ERA5 reanalysis is a global 
+          reconstruction of drought indices from 1940 to present'
+      model:
+      - ERA5
+      name: drought_era5
+      nominal_resolution:
+      - 0.25degree
