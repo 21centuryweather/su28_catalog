@@ -151,3 +151,38 @@ def parse_MMLEAv2 (file):
     info['path'] = file
     
     return info
+
+
+def parse_GSMaP (file):
+
+    _default_kwargs = {'engine': 'netcdf4', 'chunks': {}, 'decode_times': False}
+    xarray_open_kwargs = _default_kwargs
+    
+    file = pathlib.Path(file)
+    path = file.parent
+    print(file)
+    info = {}
+    z  = file.stem.split('_')
+
+    info['variable'] = 'precipitation'
+    info['dataset'] = path.parts[4]
+    info['version'] = path.parts[5]
+    info['resolution'] = '0.1 degree'
+    info['frequency'] = path.parts[8]
+    info['year_month'] = z[1]
+
+        
+    with xr.open_dataset(file, **xarray_open_kwargs) as ds:
+        if info['variable'] in list(ds.data_vars): #check that variable is the file
+
+            # Get the long name from dataset
+            info['long_name'] = ds[info['variable']].attrs.get('long_name')
+
+        else: #guess variable
+
+            # Get the long name from dataset
+            info['long_name'] = ds[list(ds.data_vars)[-1]].attrs.get('long_name')
+
+    info['path'] = file
+    
+    return info
