@@ -42,3 +42,25 @@ sources:
       name: drought_era5
       nominal_resolution:
       - 0.25degree
+  MMLEAv2:
+    args:
+      obj: /g/data/su28/tools/su28_catalog/catalog/MMLEAv2/MMLEAv2.json
+    description: Multi-Model Large Ensemble Archive version 2
+    driver: intake_esm.core.esm_datastore
+    metadata:
+      contact: RSE team
+      created: 'June, 2025'
+      description: Multi-Model Large Ensemble Archive version 2
+      keywords:
+      - CMIP5
+      - CMIP6
+      license: Creative Commons Attribution 4.0 International License 
+      long_description: 'The Multi-Model Large Ensemble Archive version 2 (MMLEAv2) includes 18 models 
+          (12 CMIP6 and 6 CMIP5) and 15 monthly variables. RCP8.5 future forcing scenario for the CMIP5 
+          class models. Historical plus SSP370 or SSP585 scenarios for CMIP6. Observational reference 
+          products are also included. All data is provided remapped to a common 2.5 x 2.5 degree grid'
+      model:
+      - ERA5
+      name: MMLEAv2
+      nominal_resolution:
+      - 0.25degree

@@ -1,0 +1,81 @@
+{
+  "esmcat_version": "0.0.1",
+  "attributes": [
+    {
+      "column_name": "variable",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "dataset",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "domain",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "model",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "experiment",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "member",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "resolution",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "frequency",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "time_range",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "long_name",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "path",
+      "vocabulary": ""
+    }
+  ],
+  "assets": {
+    "column_name": "path",
+    "format": "netcdf",
+    "format_column_name": null
+  },
+  "aggregation_control": {
+    "variable_column_name": "variable",
+    "groupby_attrs": [
+      "variable",
+      "frequency",
+      "model",
+      "experiment",
+      "resolution",
+      "time_range"
+    ],
+    "aggregations": [
+      {
+        "type": "join_existing",
+        "attribute_name": "time_range",
+        "options": {
+          "dim": "time",
+          "coords": "minimal",
+          "compat": "override"
+        }
+      }
+    ]
+  },
+  "id": "MMLEAv2",
+  "description": "The Multi-Model Large Ensemble Archive version 2 (MMLEAv2) includes 18 models (12 CMIP6 and 6 CMIP5) and 15 monthly variables. INFO: https://21centuryweather.github.io/21st-Century-Weather-Software-Wiki/datasets/mmleav2.html",
+  "title": null,
+  "last_updated": "2025-06-16T03:59:41Z",
+  "catalog_file": "file:///g/data/su28/tools/su28_catalog/catalog/MMLEAv2/MMLEAv2.csv"
+}
