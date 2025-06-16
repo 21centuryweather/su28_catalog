@@ -1,0 +1,68 @@
+{
+  "esmcat_version": "0.0.1",
+  "attributes": [
+    {
+      "column_name": "variable",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "dataset",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "version",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "resolution",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "frequency",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "year_month",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "long_name",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "path",
+      "vocabulary": ""
+    }
+  ],
+  "assets": {
+    "column_name": "path",
+    "format": "netcdf",
+    "format_column_name": null
+  },
+  "aggregation_control": {
+    "variable_column_name": "variable",
+    "groupby_attrs": [
+      "variable",
+      "frequency",
+      "version",
+      "resolution",
+      "year_month"
+    ],
+    "aggregations": [
+      {
+        "type": "join_existing",
+        "attribute_name": "time",
+        "options": {
+          "dim": "time",
+          "coords": "minimal",
+          "compat": "override"
+        }
+      }
+    ]
+  },
+  "id": "GSMaP",
+  "description": "Global Satellite Mapping of Precipitation (GSMaP) includes daily precipitation in 0.1 degree resolution. INFO: https://21centuryweather.github.io/21st-Century-Weather-Software-Wiki/datasets/gsmap.html",
+  "title": null,
+  "last_updated": "2025-06-16T04:49:33Z",
+  "catalog_file": "file:///g/data/su28/tools/su28_catalog/catalog/GSMaP/GSMaP.csv"
+}

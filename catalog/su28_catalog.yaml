@@ -59,8 +59,24 @@ sources:
           (12 CMIP6 and 6 CMIP5) and 15 monthly variables. RCP8.5 future forcing scenario for the CMIP5 
           class models. Historical plus SSP370 or SSP585 scenarios for CMIP6. Observational reference 
           products are also included. All data is provided remapped to a common 2.5 x 2.5 degree grid'
-      model:
-      - ERA5
       name: MMLEAv2
       nominal_resolution:
       - 0.25degree
+  GSMaP:
+    args:
+      obj: /g/data/su28/tools/su28_catalog/catalog/GSMaP/GSMaP.json
+    description: Global Satellite Mapping of Precipitation (GSMaP) 
+    driver: intake_esm.core.esm_datastore
+    metadata:
+      contact: RSE team
+      created: 'June, 2025'
+      description: Global Satellite Mapping of Precipitation (GSMaP) 
+      keywords:
+      - CMIP5
+      - CMIP6
+      license: Check JAXA GSMaP products portal for details 
+      long_description: 'Global Satellite Mapping of Precipitation (GSMaP). The global grid is limited
+          to 60N-60S and resolution is 0.1 degree latitude/longitude.'
+      name: GSMaP
+      nominal_resolution:
+      - 0.1degree
