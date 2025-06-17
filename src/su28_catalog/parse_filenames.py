@@ -186,3 +186,39 @@ def parse_GSMaP (file):
     info['path'] = file
     
     return info
+
+
+def parse_weather_objects (file):
+
+    _default_kwargs = {'engine': 'netcdf4', 'chunks': {}, 'decode_times': False}
+    xarray_open_kwargs = _default_kwargs
+    
+    file = pathlib.Path(file)
+    path = file.parent
+    print(file)
+    info = {}
+    z  = file.stem.split('_')
+
+    info['variable'] = path.parts[5]
+    info['dataset'] = path.parts[4].split('.')[0]
+
+    if info['variable'] in ['wcb']:
+
+        info['frequency'] = path.parts[6].split('.')[1]
+        info['resolution'] = '0.5degree'
+        info['year'] = z[1]
+        info['month'] = z[2]
+    else:
+
+        info['frequency'] = '1hourly'
+        info['resolution'] = '0.5degree'
+        info['year'] = path.parts[7]
+        info['month'] = z[1]
+
+    with xr.open_dataset(file, **xarray_open_kwargs) as ds:
+
+        info['name_in_file'] = list(ds.data_vars)
+        
+    info['path'] = file
+    
+    return info
