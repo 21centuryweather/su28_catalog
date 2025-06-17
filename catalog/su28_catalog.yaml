@@ -72,11 +72,28 @@ sources:
       created: 'June, 2025'
       description: Global Satellite Mapping of Precipitation (GSMaP) 
       keywords:
-      - CMIP5
-      - CMIP6
+      - Precipitation
       license: Check JAXA GSMaP products portal for details 
       long_description: 'Global Satellite Mapping of Precipitation (GSMaP). The global grid is limited
           to 60N-60S and resolution is 0.1 degree latitude/longitude.'
       name: GSMaP
       nominal_resolution:
       - 0.1degree
+  weather_objects:
+    args:
+      obj: /g/data/su28/tools/su28_catalog/catalog/weather_objects/weather_objects.json
+    description: ERA5-based Weather Objects 
+    driver: intake_esm.core.esm_datastore
+    metadata:
+      contact: RSE team
+      created: 'June, 2025'
+      description: ERA5-based Weather Objects
+      keywords:
+      - ERA5
+      - cyclones
+      license: NA
+      long_description: 'ERA5-based Weather Objects includes anticyclones (maxcl), cyclones (mincl) 
+          and warm-conveyor belts (wcb).'
+      name: weather_objects
+      nominal_resolution:
+      - 0.5degree

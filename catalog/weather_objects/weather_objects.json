@@ -1,0 +1,68 @@
+{
+  "esmcat_version": "0.0.1",
+  "attributes": [
+    {
+      "column_name": "variable",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "dataset",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "frequency",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "resolution",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "year",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "month",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "name_in_file",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "path",
+      "vocabulary": ""
+    }
+  ],
+  "assets": {
+    "column_name": "path",
+    "format": "netcdf",
+    "format_column_name": null
+  },
+  "aggregation_control": {
+    "variable_column_name": "variable",
+    "groupby_attrs": [
+      "variable",
+      "frequency",
+      "resolution",
+      "year",
+      "month"
+    ],
+    "aggregations": [
+      {
+        "type": "join_existing",
+        "attribute_name": "time",
+        "options": {
+          "dim": "time",
+          "coords": "minimal",
+          "compat": "override"
+        }
+      }
+    ]
+  },
+  "id": "weather_objects",
+  "description": "ERA5-based Weather Objects includes anticyclones (maxcl), cyclones (mincl) and warm-conveyor belts (wcb). INFO: https://21centuryweather.github.io/21st-Century-Weather-Software-Wiki/datasets/weather_objects.html",
+  "title": null,
+  "last_updated": "2025-06-17T01:32:40Z",
+  "catalog_file": "file:///g/data/su28/tools/su28_catalog/catalog/weather_objects/weather_objects.csv"
+}
