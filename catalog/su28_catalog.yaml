@@ -97,3 +97,22 @@ sources:
       name: weather_objects
       nominal_resolution:
       - 0.5degree
+  era5_land:
+    args:
+      obj: /g/data/su28/tools/su28_catalog/catalog/era5_land/era5_land.json
+    description: ERA5 land
+    driver: intake_esm.core.esm_datastore
+    metadata:
+      created: 'July, 2025'
+      description: ERA5 land
+      keywords:
+      - era5
+      license: null
+      long_description: 'ERA5 land is a land surface dataset forced by ERA5 atmospheric parameters but with 
+          no additional data assimilation, covering the period 1950 to present. The collection consists of 
+          monthly and sub-daily products from 1950 to the present time.'
+      model:
+      - ERA5
+      name: era5_land
+      nominal_resolution:
+      - 0.1degree

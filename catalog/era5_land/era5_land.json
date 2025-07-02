@@ -1,0 +1,80 @@
+{
+  "esmcat_version": "0.0.1",
+  "attributes": [
+    {
+      "column_name": "variable",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "dataset",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "level",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "frequency",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "resolution",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "ini_date",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "end_date",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "name_in_file",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "long_name",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "units",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "path",
+      "vocabulary": ""
+    }
+  ],
+  "assets": {
+    "column_name": "path",
+    "format": "netcdf",
+    "format_column_name": null
+  },
+  "aggregation_control": {
+    "variable_column_name": "name_in_file",
+    "groupby_attrs": [
+      "variable",
+      "dataset",
+      "level",
+      "resolution",
+      "frequency"
+    ],
+    "aggregations": [
+      {
+        "type": "join_existing",
+        "attribute_name": "time_range",
+        "options": {
+          "dim": "time",
+          "coords": "minimal",
+          "compat": "override"
+        }
+      }
+    ]
+  },
+  "id": "era5_land",
+  "description": "ERA5 land is a land surface dataset forced by ERA5 atmospheric parameters but with no additional data assimilation, covering the period 1950 to present. The collection consists of monthly and sub-daily products from 1950 to the present time.",
+  "title": null,
+  "last_updated": "2025-07-02T05:24:06Z",
+  "catalog_file": "file:///g/data/su28/tools/su28_catalog/catalog/era5_land/era5_land.csv"
+}
