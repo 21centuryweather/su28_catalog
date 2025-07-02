@@ -222,3 +222,45 @@ def parse_weather_objects (file):
     info['path'] = file
     
     return info
+
+
+def parse_era5_land (file):
+
+    _default_kwargs = {'engine': 'netcdf4', 'chunks': {}, 'decode_times': False}
+    xarray_open_kwargs = _default_kwargs
+    
+    file = pathlib.Path(file)
+    path = file.parent
+    print(file)
+    info = {}
+    z  = file.stem.split('_')
+
+    info['variable'] = z[0]
+    info['dataset'] = z[1]
+    info['level'] = z[3]
+
+    info['frequency'] = path.parts[5]
+    info['resolution'] = '0.1degree'
+    info['ini_date'] = z[4].split('-')[0]
+    info['end_date'] = z[4].split('-')[1]
+
+    with xr.open_dataset(file, **xarray_open_kwargs) as ds:
+        if info['variable'] in list(ds.data_vars): # check that variable is the file
+
+            info['name_in_file'] = info['variable']
+            # Get the long name from dataset
+            info['long_name'] = ds[info['variable']].attrs.get('long_name')
+            # Grab the units of the variable
+            info['units'] = ds[info['variable']].attrs.get('units')
+
+        else: # guess variable
+
+            info['name_in_file'] = list(ds.data_vars)[-1]
+            # Get the long name from dataset
+            info['long_name'] = ds[list(ds.data_vars)[-1]].attrs.get('long_name')
+            # Grab the units of the variable
+            info['units'] = ds[list(ds.data_vars)[-1]].attrs.get('units')
+        
+    info['path'] = file
+    
+    return info
