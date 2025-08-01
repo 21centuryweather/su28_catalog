@@ -264,3 +264,14 @@ def parse_era5_land (file):
     info['path'] = file
     
     return info
+
+def parse_himawari (file):
+    file = pathlib.Path(file)
+    info = {}
+
+    with xr.open_zarr(file) as ds:
+        info['variable'] = list(ds.data_vars)
+    info['dataset'] = "himawari_ahi_cloud"
+
+    info['path'] = file
+    return info
