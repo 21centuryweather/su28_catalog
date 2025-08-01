@@ -1,0 +1,44 @@
+{
+  "esmcat_version": "0.0.1",
+  "attributes": [
+    {
+      "column_name": "variable",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "dataset",
+      "vocabulary": ""
+    },
+    {
+      "column_name": "path",
+      "vocabulary": ""
+    }
+  ],
+  "assets": {
+    "column_name": "path",
+    "format": "zarr",
+    "format_column_name": null
+  },
+  "aggregation_control": {
+    "variable_column_name": "variable",
+    "groupby_attrs": [
+      "variable"
+    ],
+    "aggregations": [
+      {
+        "type": "join_existing",
+        "attribute_name": "time",
+        "options": {
+          "dim": "time",
+          "coords": "minimal",
+          "compat": "override"
+        }
+      }
+    ]
+  },
+  "id": "himawari_ahi_cloud",
+  "description": "The cloud type product is derived from Himawari AHI data using NWC SAF algorithms. The CT product contains information on the major cloud classes. INFO: https://21centuryweather.github.io/21st-Century-Weather-Software-Wiki/datasets/himawari-ahi.html",
+  "title": null,
+  "last_updated": "2025-08-01T05:43:48Z",
+  "catalog_file": "file:///g/data/su28/tools/su28_catalog/catalog/himawari_ahi_cloud/himawari_ahi_cloud.csv"
+}

@@ -116,3 +116,22 @@ sources:
       name: era5_land
       nominal_resolution:
       - 0.1degree
+  himawari_ahi_cloud:
+    args:
+      obj: /g/data/su28/tools/su28_catalog/catalog/himawari_ahi_cloud/himawari_ahi_cloud.json
+    description: Himawari AHI cloud type
+    driver: intake_esm.core.esm_datastore
+    metadata:
+      created: 'August, 2025'
+      description: Himawari AHI cloud type
+      keywords:
+      - satellite
+      - cloud
+      license: null
+      long_description: 'The cloud type product is derived from Himawari AHI data using NWC SAF algorithms 
+          included in NWC/GEO software package. The CT product contains information on the major cloud classes.
+          This dataset have been post-processed to include the timestamp as a dimension and converted nx/ny to 
+          lat/lon coordinates. The domain is the Australian regional domain.'
+      name: himawari_ahi_cloud
+      nominal_resolution:
+      - 0.05degree

@@ -1,0 +1,2 @@
+variable,dataset,path
+"['ct', 'ct_conditions', 'ct_cumuliform', 'ct_multilayer', 'ct_quality', 'ct_status_flag', 'geostationary', 'spatial_ref']",himawari_ahi_cloud,/g/data/su28/himawari-ahi/cloud/ct/aus_regional_domain/S_NWC_CT_HIMA08_HIMA-N-NR.zarr
